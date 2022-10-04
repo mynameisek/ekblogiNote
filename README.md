@@ -1,4 +1,4 @@
-[![BlogiNote](https://raw.githubusercontent.com/mynameiskeo/ekblogiNote/main/public/cover.jpg)](https://github.com/mynameiskeo/ekblogiNote)
+[![BlogiNote](https://raw.githubusercontent.com/mynameisek/ekblogiNote/main/public/cover.jpg)](https://github.com/mynameiskeo/ekblogiNote)
 
 # EkNote
 
