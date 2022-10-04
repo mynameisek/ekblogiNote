@@ -77,6 +77,9 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@nuxtjs/tailwindcss'
   ],
+  buildModules: [
+    '@nuxtjs/moment'
+  ],
   // https://content.nuxtjs.org
   content: {
     navigation: {
