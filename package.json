@@ -2,7 +2,7 @@
   "name": "bloginote",
   "version": "1.0.1",
   "type": "module",
-  "description": "A Nuxt theme for showing blog posts and snippet notes with flexible layouts and multiple optimizations.",
+  "description": "Personal Knowledge base, archive and blog based on A Nuxt theme",
   "main": "./nuxt.config.ts",
   "exports": {
     ".": "./nuxt.config.ts",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Benbinbin/BlogiNote.git"
+    "url": "git@github.com:mynameisek/ekblogiNote.git"
   },
   "keywords": [
     "blog",
@@ -28,7 +28,7 @@
     "static",
     "remark"
   ],
-  "author": "Benbinbin <benthomsonbin@gmail.com> (https://benbinbin.com)",
+  "author": "Ekitcho <mynameiskeo@gmail.com> (https://ekblogi-note.vercel.app/)",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^8.17.0",

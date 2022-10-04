@@ -13,14 +13,14 @@ const appConfig = useAppConfig()
         <span v-else>{{ appConfig.theme.author }}</span>
       </p>
       <p>
-        blog theme <a href="https://github.com/Benbinbin/BlogiNote" target="_blank" class="text-blue-400">EkiBlog inspired by BlogiNote</a>
+        blog theme <a href="https://github.com/mynameisek/ekblogiNote" target="_blank" class="text-blue-400">EkNote inspired by BlogiNote</a>
       </p>
       <p>
-        Icons from <a href="https://icones.js.org/" target="_blank" class="text-blue-400">Icônes</a>, <a
-          href="https://icons8.com/"
+        Framework <a href="https://v3.nuxtjs.org/" target="_blank" class="text-blue-400">Nuxtjs v3</a>, <a
+          href="https://content.nuxtjs.org/"
           target="_blank"
           class="text-blue-400"
-        >Icons8</a>
+        >Nuxt-Content</a>
       </p>
     </div>
   </div>

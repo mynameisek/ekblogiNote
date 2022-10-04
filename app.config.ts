@@ -2,18 +2,18 @@
 export default defineAppConfig({
   theme: {
     meta: {
-      name: 'BlogiNote',
-      description: 'A Nuxt theme for showing blog posts and snippet notes with flexible layouts and multiple optimizations.',
-      author: 'Benbinbin',
-      url: 'https://bloginote.benbinbin.com/'
+      name: 'EkNote',
+      description: 'Personal Knowledge base, archive and blog',
+      author: 'Ekitcho',
+      url: 'https://ekblogi-note.vercel.app/'
     },
-    author: 'Benbinbin',
-    email: 'benthomsonbin@gmail.com',
+    author: 'Ekitcho',
+    email: 'mynameiskeo@gmail.com',
     avatar: '/default-avatar.png',
     favicon: '/default-favicon.ico',
     homePage: {
       showBlogPosts: true,
-      postItemLimit: 5
+      postItemLimit: 4
     },
     subscribePage: true,
     articlePage: {

@@ -150,7 +150,7 @@ const getFileTypeIcon = (type) => {
 <template>
   <div>
     <Head>
-      <Title>Home</Title>
+      <Title>EkNote Home</Title>
     </Head>
     <NuxtLayout name="base" :footer-flexi-mode="true" :header-flexi-mode="true">
       <div v-show="flexiMode === 'blog'" class="container px-8 mx-auto">
@@ -161,7 +161,7 @@ const getFileTypeIcon = (type) => {
             </template>
             <template #not-found>
               <h1 class="py-4 text-3xl sm:text-5xl font-bold text-center text-purple-500">
-                BlogiNote
+                EkNote
               </h1>
             </template>
           </ContentDoc>
