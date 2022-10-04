@@ -13,7 +13,7 @@ const appConfig = useAppConfig()
         <span v-else>{{ appConfig.theme.author }}</span>
       </p>
       <p>
-        blog theme <a href="https://github.com/Benbinbin/BlogiNote" target="_blank" class="text-blue-400">BlogiNote</a>
+        blog theme <a href="https://github.com/Benbinbin/BlogiNote" target="_blank" class="text-blue-400">EkiBlog inspired by BlogiNote</a>
       </p>
       <p>
         Icons from <a href="https://icones.js.org/" target="_blank" class="text-blue-400">Icônes</a>, <a
