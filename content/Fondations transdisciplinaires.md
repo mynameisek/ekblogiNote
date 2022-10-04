@@ -1,6 +1,10 @@
+---
+head.description: 'Les fondations TD'
+---
+
  Un des buts de l'organisation est l'approche transdisciplinaire pleinement inspirée du [projet moral](https://ciret-transdisciplinarity.org/moral_project.php) du CIRET (Centre International de Recherche et Études Transdisciplinaires).
 
-## LE PROJET MORAL du CIRET (1987)
+# LE PROJET MORAL du CIRET (1987)
 
 **1 -**
 Nous sommes témoins d'une révolution sans précédent engendrée par la science fondamentale et tout particulièrement par la physique et la biologie. Cette révolution bouleverse la logique, l'épistémologie et la vie de tous les jours à travers les applications technologiques. Il est essentiel de reconnaître l'existence d'un important décalage entre la nouvelle vision du monde qui émerge de l'étude des systèmes naturels et les valeurs qui prédominent encore en philosophie, dans les sciences de l'homme et dans la vie de la société moderne, valeurs fondées dans une large mesure sur le déterminisme mécaniste, le positivisme ou le nihilisme. Ce décalage est fortement nuisible et porteur de menaces de destruction de notre espèce. Il convient de rechercher ses causes profondes, de réfléchir aux éventuels remèdes et d'agir en conséquence.
