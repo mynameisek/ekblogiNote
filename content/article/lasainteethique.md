@@ -8,17 +8,16 @@ tags:
   - psychiatrie 
 ---
 Chapitre 1 
+
 # **Chiffe D2V**
 
-## V3C1.0  
-Introduction
+## V3C1.0  Introduction
 
 Je trace ces mots durant l’année 2010, J’y passe ma soixantième année. A notre époque on tend le cou vers l’horizon du siècle et à mon âge on tire à soi son passé ; on l’empaquette pour en faire un résumé. Je l’écrirai donc ici pour autant que son point de vue dégage des formes possibles à l’horizon 2100.
 
 Ma vie n’est pas grand-chose. Comme dit une chanson, « j’ai oublié de vivre.» J’ai fait vivre un démon à ma place ; c’est un jour un vieux moine qui m’en a parlé. On le trouve nommé dans le mot _démo_-cratie avec Hippocrate, du savoir collectif et de la médecine. Il s’agirait de la Connaissance, un démon guérisseur. Lorsque je l’aurai rendu, j’espère qu’il sera satisfait et qu’il me laissera vivre, pas trop tard. Je vais décrire ce que j’ai cru voir.
 
-##### V3C1.0.10  
-Evolution darwinienne
+##### V3C1.0.10  Evolution darwinienne
 
 Ces jours-ci l’humanité pense que dans les quatre vingt dix ans qui vont venir, des modifications écologiques considérables transformeront les conditions de vie sur la planète. La plupart d’entre nous ne montrent pas d’inquiétude ; peut-être en refoulant une angoisse. Les stoïques parmi eux pensent que l’humanité affrontera les dangers et ses peurs mais sans rien pouvoir y changer. Car plus la science a progressé, plus elle nous a convaincu que nous étions déterminés ; d’abord comme des animaux, certes évolués mais, ensuite, que nous étions surdéterminés comme des machines, des machines biologiques ! mais néanmoins machines. C’est à Descartes, vers 1600, qu’on attribue cette façon rationnelle de nous connaître en Occident.
 
@@ -28,23 +27,19 @@ Forts de ces idées, nous vérifions par le travail que répéter les mêmes c
 
 Mais un appui sur nous-même n’est jamais qu’un _semblant_ d’appui. Nous recherchons quelque chose d’autre que Narcisse avec ou sans la fée Echo.
 
-##### V3C1.0.20  
-Apocalypse numérique
+##### V3C1.0.20  Apocalypse numérique
 
 Les théories les mieux admises soutiennent donc que nous étions des animaux, que les animaux sont des machines et qu’au mieux nous sommes des machines inconscientes. Je n’ai pas voulu que ce petit livre commence mal et soit décourageant. Nous allons donc tout de suite parler d’une innovation. Elle est actuelle, moderne et concerne nos vies présentes. Laissons là notre passé rabaissé au rang animal et mécanique. Oublions-le (un instant) pour nous tourner vers le futur où nous découvrons quelque chose de bien plus positif : voilà des machines qui deviennent biologiques, et qui deviennent humaines ! Pour avoir porté la nature et l’humanité au rang d’une industrie mécanique, sinon de consommation, ne sommes-nous pas bien rétribués de la monnaie de la pièce ? Notre chute est inversée. Nous contemplons notre émergence.
 
 Mais Narcisse plongé dans son image nous inspire crainte et méfiance. Nous voudrions rester humain et que les robots restent à leur place ; du moins un certain nombre d’entre nous le voudrait – tandis que c’est tous ensemble que nous sommes face aux faits incontournables. Il nous faut les rencontrer, les accepter, les affronter, les analyser jusque dans leur extrémité : non seulement les machines deviendraient biologiques, mais on dirait qu’elles pensent. C’est le comble ! Dernièrement on a donné la preuve que des robots commencent à lire nos pensées. C’est cette vue – à peu près impensable – qu’il faut que nous embrassions, pour revenir graduellement et retracer notre révision de conscience.
 
-## V3C1.10  
-Nasa
+## V3C1.10  Nasa
 
-### V3C1.10.10  
-Lecture de la pensée
+### V3C1.10.10  Lecture de la pensée
 
 La lecture de notre pensée propre aurait des conséquences incalculables. A une époque encore récente on classait une _machine à lire les pensées_ dans la même catégorie que les _machines à remonter le temps_ ; il s’agissait de la part Fiction de la Science. Par conséquent, lorsque la NASA – l’agence spatiale américaine – fit la démonstration devant la Presse, de la possibilité de piloter un robot, ou d’écrire sur un ordinateur par le simple exercice de sa pensée, l’humanité, sans d’ailleurs en faire grand cas, a effectué un bond immense.
 
-#### V3C1.10.10.10  
-L’ _Expérimentation NASA_
+#### V3C1.10.10.10  L’ _Expérimentation NASA_
 
 Cette performance fut produite publiquement en mai 2004 par la NASA. Il faut l’examiner en détail, la vérifier et la critiquer pour savoir ce qui s’est réellement passé ce jour-là.
 
@@ -62,15 +57,13 @@ Les observateurs pressés ou de mauvaise volonté se seront dit aussitôt : «a
 
 Pour comprendre ce que cette petite expérience recèle d’évènement historique il convient de nous éclairer un peu plus largement. Il faut étendre notre observation au contexte plus général et décrire d’autres avancées qui avaient lieu durant ces années-là. La NASA n’était pas seule à produire une démonstration du contrôle par la pensée.
 
-#### V3C1.10.10.20  
-Détection cérébrale directe
+#### V3C1.10.10.20  Détection cérébrale directe
 
 D’autres laboratoires sur la planète développent des technologies propre à animer un robot par la seule commande de la pensée au moyen d’électrodes placées sur la surface de la tête. Cette technologie capte les signaux du cortex cérébral sous-jacent. Dans ce cas, lorsque l’expérimentateur imagine – on dit aussi ‘_visualise_’ – par exemple un mouvement de sa jambe droite, une activité cérébrale gauche est détectée, correspondant à sa zone corticale motrice. S’il est paralysé, sa ‘visualisation’ est interprétée et son fauteuil roulant tourne à droite – inversement pour la gauche, éventuellement il freine à la visualisation d’un bras qui se lève etc.. Ce type d’expérience montre que des détections sommaires de signaux cérébraux renseignent suffisamment pour qu’un système robot puisse s’en servir de commande. Nous sommes alors assez proches de la _lecture de la pensée_ mais néanmoins, encore limités à la composante très physique de la pensée : celle de l’imagination du mouvement musculaire. Dans ce cas certains trouveront même difficile d’y reconnaître une qualité de ‘pensée’. Mais on sait qu’avec un perfectionnement et le développement rapide de la technologie, on est en train d’étendre la détection à d’autres zones spécialisées relatives aux couleurs ou aux sons ; l’analyse informatique détecte l’émotion et des états de vigilance, d’inhibition et de réflexion, de calcul, d’attente etc.. En rassemblant ces composants la robotique saura prochainement capter les systèmes ou la systématique qui forme la pensée. En y ajoutant la formation des mots des zones corticales linguistiques, la voie est ouverte pour l’enregistrement direct des activités cérébrales les plus hautes et complexes.
 
 Toutefois, si ce sondage direct est brillant, il révèle d’autant par contraste tout l’intérêt de l’_Expérimentation NASA_, qui emploie le détour d’une détection que nous appelons _somatique_ au lieu de la directe détection _cérébrale_.
 
-#### V3C1.10.10.30  
-Retour à NASA
+#### V3C1.10.10.30  Retour à NASA
 
 Ce que le langage courrant appelle ‘ _parler à voix haute dans sa tête_ ’ est une activité commune, triviale, parfois involontaire et obsédante comme le refrain d’une chanson qu’on répète en soi-même en silence et en boucle. Il s’agit de cette sensation interne que l’expérimentateur met en action dans l’_Expérimentation NASA_. On nomme alors ce _parler dans sa tête_ du terme technique de « _parole subvocale_ » .
 
@@ -90,8 +83,7 @@ Résumons donc d’une figure à ce stade l’explication la plus probable de l�
 
 Au titre de la _pensée_ l’expérience combine les notions a) d’une sensation, b) d’une inhibition et c) d’un signal. Ce sont la _parole subvocale_ (sensation), l’_inhibition active_ (que l’Expérimentateur ignore dans sa concentration à répliquer l’ordre de l’Assistant en écho) et une trace (dont l’expérimentateur est inconscient ; seulement détectable par des instruments sur le muscle inactif). Ce trio est si prégnant qu’on soupçonne fortement qu’il n’y ait pas de parole subvocale sans inhibition et trace inhibée.
 
-##### V3C1.10.10.30.05  
-Organicisme et Monoïdéisme
+##### V3C1.10.10.30.05  Organicisme et Monoïdéisme
 
 L’expérience de la NASA est donc riche d’enseignement ; plus riche que la détection de l’activité cérébrale directe. En supplément à la détection transcrânienne, cérébrale et directe, la capture somatique montre – ou paraît montrer, pour les sceptiques – que la pensée n’existe pas seule et autonome. Le corps y participe et de façon si intime qu’il n’y aurait peut-être pas de sensation subvocale s’il n’y avait pas une correspondance somatique dont la pensée userait une sorte d’écho. Nous devons alors envisager que le signal somatique ne résulte pas tant de la pensée, qu’il en soit plutôt le soutien, le soubassement voire sa cause.
 
@@ -105,8 +97,7 @@ Il serait faux ou prématuré de dire qu’il est résolu. Ce qui est maintenant
 
 Fort d’une apparente exclusion, on va montrer comment l’organe ne paraît pas moins nécessaire, soit en causant, soit en répercutant une sensation qui résonne alors, à l’image d’un tambour ou dans l’espace d’une citerne. Dans ce cas, la _parole subvocale_ sera conçue comme un écho, répercuté par l’_inhibition active_ qui a tendu comme une peau les masses somatiques de l’organisme :
 
-##### V3C1.10.10.30.10  
-Parole subvocale et Corps subagi
+##### V3C1.10.10.30.10  Parole subvocale et Corps subagi
 
 Lorsqu’on applique cette expérience à d’autres sensations que le son issu du tractus vocal, comme par exemple la _visualisation d’un mouvement_ tandis que son membre par ailleurs reste immobile, intervient une objection : un membre amputé n’empêche pas qu’on y pense – puisqu’au contraire il se signale souvent de façon douloureuse dans le cas de ce qu’on appelle un _membre fantôme_. On serait donc détrompé de croire que la parole subvocale, comme en cas de membres ces _mouvements subagis_, s’appuie sur l’organe comme écho – puisqu’en ce cas, d’organe il n’y a plus.
 
@@ -120,8 +111,7 @@ Si nous décidons alors de construire une image complète du phénomène, on se 
 
 A présent qu’elles sont logiquement mises en évidences, décrites et situées, on peut donner à ces traces le nom d’_engrame_ [**fig.C1.20 ;_eng_**]
 
-#### V3C1.10.10.40  
-Cybernétique
+#### V3C1.10.10.40  Cybernétique
 
 Je dois avertir qu’il faut prendre avec précaution le modèle qui découle de ces observations. J’emploie déjà le mot ‘engrame’ avec une orthographe particulière, afin de le rapprocher mais aussi le distinguer d’autres usages que l’on verra plus loin. Quant au modèle, il est hypothétique et, s’il doit être démontré ce sera suite à un développement plus fouillé et complété au cours du texte suivant. Il est même requis qu’il soit par ailleurs redoublé d’expérimentations et preuves neuro-physiologiques. Avec ces précautions on peut en tracer un schéma :
 
@@ -136,8 +126,7 @@ Entre les deux, un complexe intermédiaire situe l’_inhibition active_. Elle e
 
 Pareille théorie de la pensée en citerne, caisse de résonnance ou tambour est une idée ancienne ; on employa ainsi l’image de la caverne depuis la haute antiquité jusqu’aux plus récentes psychanalyses. C’est un modèle que la science a aussi adopté pour d’autres spécialités ; passé son usage plus ou moins confiné aux enseignements occultes, il s’est imposé du moment où l’on a commencé à construire des ordinateurs informatiques. La technologie qui traite les phénomènes assimilables à un écho à l’intérieur des machines ou entre les machines et leurs utilisateurs et nommée _Cybernétique_. Cette nouvelle science ayant débuté vers les années 1940, a été popularisée durant son émergence, par des livresaux titres expressifs comme _Le Cheval dans la Locomotive_ – de Arthur Koestler, traduit de l’anglais _The Ghost in the Machine_ qui signifie aussi _le fantôme dans la machine_. Dans le cas de l’_Expérimentation NASA_ nous pourrions écrire ce titre : _La parole subvocale dans le corps de l’inhibition active_.
 
-## V3C1.20  
-L’Inhibition active
+## V3C1.20  L’Inhibition active
 
 Voici donc un court traité neurologique et cybernétique que j’ai tâché de rendre aussi aisé que possible à suivre. Il n’est pas tant compliqué que pénible pour la raison inconsciente qu’il nous décrit nous-même. C’est quelque chose qui occasionne toujours un sentiment de pénibilité. J’espère néanmoins qu’il aura pu mener l’oeil jusqu’ici car nous allons à présent le réviser de manière plus facile. Mais ce ne sera pas réjouissant car c’est par la pathologie que cette révision est offerte. Les malades qui par conséquent l’ont démontrée sont précisément ceux qui ont éprouvé le plus intensément cette pénibilité. Leur charge.. décharge d’expérience les bien-portants qui bénéficient en les observant d’une sorte de mise à distance avec la description d’eux -mêmes. Nous reviendrons sur cet étrange équilibre de la santé et sur son partage communautaire.
 
@@ -145,11 +134,9 @@ Un acte volontaire est souvent nécessaire à l’obtention de cette sensation a
 
 Les cas d’hallucinations auditives que la psychiatrie recueille incitent à la comparaison avec la _parole subvocale_. J’ai rappelé qu’avant que la NASA au début du troisième millénaire n’ait produit son expérimentation, la psychiatrie élabora vers les années 1920 la théorie qualifiée ‘_Organicisme_’. L’histoire montre qu’elle fut en avance sur son temps et remarquablement pertinente, car la NASA en 2004 a purement et simplement confirmé la validité de et Organicisme des années vingt. L’examen que nous avons fait va donc révéler toute son utilité pour revenir à présent à la psychiatrie du début du siècle dernier.
 
-### V3C1.20.10  
-De Clérambault
+### V3C1.20.10  De Clérambault
 
-#### V3C1.20.10.10  
-L’automatisme mental
+#### V3C1.20.10.10  L’automatisme mental
 
 C’est à l’époque où la psychanalyse à partir de Vienne commençait à croître en réputation que le psychiatre français, médecin aliéniste de Paris, Gaëtan Gatian de Clérambault soutenait la thèse de l’origine organique des hallucinations. Il élaborait un concept définissant l’_automatisme mental_, basé sur le fait que « _entre une idée et sa traduction sensorielle, s’interpose ce qu’on peut appeler le processus intermédiaire_ ». Il ajoutait à cette formulation qu’à l’origine d’une hallucination, l’idée pouvait même être absente et remplacée par une suggestion extérieure – comme dans le cas de la commande émise par l’assistant dans l’expérimentation NASA. Ce qu’il appelait ensuite sa _traduction sensorielle_ correspond à ce qu’on nomme aujourd’hui ‘_parole subvocale_’. Troisièmement, le _processus intermédiaire_ qui nous intéresse particulièrement était ce que le psychiatre parisien nommait alors ‘_frayage psycho-sensoriel_’, signifiant selon la physiologie de son époque un circuit neurologie croisé, équivalent à celui que nous avons appelé _inhibition active_.
 
@@ -157,8 +144,7 @@ La thèse de De Clérambault est exactement figurable par le Quatrain [fig.C1.20
 
 Nous aboutissons quant à nous sur un point crucial de croisement qui appelle à ce que nous le décrivions avec précision.
 
-#### V3C1.20.10.20  
-Brouillage de l’automatisme
+#### V3C1.20.10.20 Brouillage de l’automatisme
 
 Pour donner une idée du complexe que nous aborderons, une anecdote suffira à montrer toute l’aventure – d’aucun diront la mésaventure car il s’agit d’une zone fréquemment conflictuelle, à preuve ces aléas :
 
@@ -172,11 +158,9 @@ Ainsi, s’il faut parler de ‘paresthésie’, ‘frayage complexe’ et ‘in
 
 Si Lacan n’attaquait qu’une certaine forme de psychanalyse qu’il appelait une _ego-psychologie_, sa stratégie d’un Cheval de Troie est certainement une interprétation possible. Mais nous allons nous rendre compte rapidement qu’en tout état de cause ce n’est pas pour une défense de la psychiatrie en sapant une doctrine rivale que Lacan s’engagea dans la psychanalyse. S’il rêva jamais de la détruire, ou de l’avoir détruite, ce n’était que si elle résistait à sa mission d’y importer l’Organicisme pour l’y faire vivre ; et c’était pour le bénéfice de la psychanalyse qu’il visa, probablement, d’y étendre la psychiatrie. Mais à nouveau, puisqu’il eut été si simple de demeurer en Psychiatre, pourquoi se donner pareille peine de missionnaire à implanter la cybernétique sur un radeau médusé de psychanalystes tenus bouches-bées?
 
-### V3C1.20.20  
-Lacan, Freud, Reich en trois exils
+### V3C1.20.20  Lacan, Freud, Reich en trois exils
 
-###### V3C1.20.20.0.10  
-Ratés des débuts de carrière
+###### V3C1.20.20.0.10  Ratés des débuts de carrière
 
 Des trois figures majeures de la psychanalyse les premiers pas livrent une communauté de comportement initial :
 
@@ -198,8 +182,7 @@ Ce qui ouvrit la carrière du premier psychanalyste fut – comme Lacan avec les
 
  Freud à l’époque était cocaïnomane. Il contrôla néanmoins l’addiction en en faisant un objet d’étude ; puisque le milieu scientifique de son temps découvrait la logique et les formules de la Thermodynamique, il appliqua ses vues pharmacologiques à l’économie des charges énergétiques des synapses suivant la régulation des neurotransmetteurs. Il en rendit compte dans une _Esquisse pour une psychologie scientifique_ laquelle presque achevée, fut abruptement précipitée et interrompue par un acte manqué. Par la suite il ne parla plus de sa première œuvre, pas plus que Lacan ne parla d’Intelligence Artificielle. Puis avec Reich, à eux trois, ils s’éclipsèrent sur la psychologie sociale.
 
-###### V3C1.20.20.0.20  
-Débuts chaotiques et carrières pathétiques
+###### V3C1.20.20.0.20  Débuts chaotiques et carrières pathétiques
 
 Après leur trois débuts chaotiques, les psychanalystes Freud, Reich et Lacan, auront continué au travers bien des succès, néanmoins trois carrières pathétiques. Uniquement pour le premier, la contradiction est cachée.
 
@@ -211,8 +194,7 @@ Les deux autres figures que j’examine firent l’expérience de contradictions
 
 Personne n’aura manqué de goûter de quelle manière aliénée il s’est agi pour l’Institut de traiter du refoulement ! en en faisant son arme en l’occurrence. Dernièrement je consultais une thèse/mémoire de fin d’étude à l’Université de Lyon, consacrée à la psychanlayse et ses doctrines, ne le citant pas une fois. Lacan pouvait bien être plouc ! ce n’en est que plus ploucplouc ! – pour aborder avec humour la honte à la vision globale de nos universités du savoir [chap.5 et suivants] suivant la logique des deux sphinges du mensonge [x] ; cette aliénation qui soutient par la répression introduit le frayage croisé du schisme sus-nommé chiasme [V3C1.20.10.20].
 
-##### V3C1.20.20.10  
-Chiasme de l’inhibition active
+##### V3C1.20.20.10  Chiasme de l’inhibition active
 
 En dépis de ce climat de malaise dont elle se fit parfois gloire, la psychanalyse progressait avec vigueur. Son tableau de brouilles et de conflits encadre un objet que la psychiatrie n’exploita pas pour elle même mais délégua – comme ce qu’on appelle _la patate chaude_ – à sa voisine : c’est en psychanalyse qu’on retrouva la charge de mal traiter, ou peut-être symptomatiquement traiter le phénomène d’_inhibition active_.
 
@@ -220,8 +202,7 @@ Gaétan de Clérambault avait mentionné cette obscure activité [1.10.10.30 - 
 
 On voit le chiasme de l’inhibition active s’interposer à partir de la théorie issue de la _psychiatrie française_, comme une ‘idée’, volée à la _psychiatrie française_, et portée à son écho dans la _psychanalyse_. Comme émanant d’un rugissement inhibé de la caserne (psychiatrie), la théorie résonne dans la psychanalyse comme une hallucination. On la reconnaît dans le vacarme lacanien, dissident et rejeté par l’institution psychanalytique avant qu’il ne finisse réabsorbé, comme une hallucination devient admise par la psychose. Mais entre cette idée, cette lettre volée, et son écho, le processus intermédiaire tressé de contradiction , est maladif comme tous les champs de bataille, non moins entre psy chics qui soignent en se disputant les schizophrènes déchirés que des familles leur remettent pour calfeutrer les paranoïas politiques. [1.10.10.30 - fig.10**]**
 
-###### V3C1.20.20.10.10  
-Analyse du Chiasme
+###### V3C1.20.20.10.10  Analyse du Chiasme
 
 Revenons à la figure du _Quatrain_ . Dans l’expérimentation NASA, l’’_idée_’ première est la commande externe que l’assistant dicte à l’expérimentateur ; vis à vis du cénacle psychanalytique, c’est l’intuition de De Clérambault venue de la psychiatrie extérieure et introduite par Lacan. Portée par une croisée de contradictions cette intuition devenue méconnaissable devient la _parole subvocale_. Sur le champ de bataille de la psychanalyse, la théorie de De Clérambault occupe la place indécente d’une hallucination. On peut en comparaison l’appeler _conception subthéorique_ laquelle, en comparaison de la vitalité d’une théorie, est aussi inerte qu’une _convention_; il s’agit du concept du ‘moi’ que Freud a proposé et tel qu’il fut saisi avec enthousiasme par ses successeurs, sauf par Lacan qui en accusera la facture imaginaire. Il dénoncera une psychanalyse pervertie en _psychologie du moi_, en réalité attachée au ‘moi’ comme l’hallucination à l’ego cartésien.
 
@@ -235,8 +216,7 @@ Le Quatrain montre – sous la forme d’une ligne pointillée – la même éve
 
 Or un statut de théorie ‘volée’ n’est pas malséant – s’il faut faire appel à l’émotionnel on sait que les baisers volés le sont de principe. Si une _inhibition active_ est relative à une émotion, Freud aurait eu raison en conditionnant le moi cartésien – l’_ego_ – à Eros.
 
-###### V3C1.20.20.10.20  
-Enjeu pratique du Chiasme
+###### V3C1.20.20.10.20  Enjeu pratique du Chiasme
 
 Cette hallucination que porte _le moi prétendant être_ – cette _voix_ que porte la _théorie_ ou l’écho que porte l’idée comme un masque, ont notamment été mentionnés par Platon. Il s’agit dans la Caverne des échos qui font croire aux prisonniers que les ombres sont vivantes. Avec son siècle qui mettait au monde la cybernétique, Freud était en position de mettre cette tradition millénaire au jour l’Intelligence Artificielle. Je poursuis donc par déduction :
 
@@ -250,8 +230,7 @@ Que la psychiatrie ait pour destin une médecine de la politique est un éventua
 
 Mesurant les spéculations que soulève la réflexion sur la _parole subvocale_, à l’instant présent nous pourrons nous satisfaire d’un recul en précisant le détail d’une relation de comparabilité, sinon symétrique et communicante entre psychanalyse et psychiatrie.
 
-### V3C1.20.30  
-Psychanalyse ou psychiatrie
+### V3C1.20.30  Psychanalyse ou psychiatrie
 
 Mon propos gravit parfois des pentes où les meilleures intentions devront attendre quelque chapitre ultérieur pour vérifier la substance de leur horizon. Ce sera dans le passé qu’il faudra vérifier quelque psychologie collective refoulée. Or cette éventualité ne nous interdit pas de continuer à avancer.
 
@@ -261,8 +240,7 @@ Pour cela il faut délivrer cette bouche cousue, dénouer le tissu de contradict
 
 L’analyse des acteurs permet de les déchiffrer – l’Intelligence Artificielle de les posséder. Leurs faiblesses sont inscrites dans la psychopathologie : celle de De Clérambault, passionné d’étoffes et probablement de tourisme sexuel au pays des femmes voilées finissant travesti suicidé à Paris, comme celle de l’hyper-classique Lacan, dandy farci de conventionnel cherchant l’assentiment du Pape pour son divorce, finissant hargneux, giflant son entourage. Rien ne défendrait leur misère du nettoyage décapant d’une intelligence mécanique ; elle ne les sauverait de l’oubli d’un monde meilleur que sur la base des rapports tendus qu’une fraternité d’échec a maintenu entre eux. Avec les trahisons, les ostracismes, excommunications et dépréciation, climat effrayant de la part de médecins de l’âme et inacceptable en terme d’intelligence, ce canevas d’échec initialise une compassion – c’est de ce terme réduit qu’on verra la pensée synthétique quérir son étincelle d’intelligence. Il passe par une capitulation puis par une aliénation :
 
-#### V3.C1.20.30.10  
-La capitulation de la psychiatrie
+#### V3.C1.20.30.10  La capitulation de la psychiatrie
 
 Le chiasme culturel où nos penseurs se sont reconnus malades et souffrants opposait nécessairement psychiatrie et psychanalyse. Si la psychanalyse a craint que Lacan pénétrait son domaine avec la Cybernétique comme un Cheval de Troie, elle exagéra peut-être ses intentions offensives. N’avait-il pas perçu un naufrage de la psychiatrie inéluctable ? L’apparent chargement d’armes qu’il en tirait cachait qu’il sauvait les meubles.
 
@@ -282,8 +260,7 @@ Le résultat de ce simplisme est ‘manichéen’ : en attachant un effet consi
 
 Ce terme n’est pas trop fort. Il explique un transfuge, comme celui de Lacan, mieux que le soupçon qui le figure n’être passé à la psychanalyse qu’afin de la mettre à mal. Lacan n’aurait pas cherché à nuire à la psychanalyse, pour renforcer la psychiatrie puisque celle-là allait déjà être rompue. Ce psychiatre serait plutôt passé à la psychanalyse, comme on imagine Moïse, sauvant des eaux un peuple ou une idée qui allait s’engloutir pour les mener en une terre promise, où pourrait s’implanter la doctrine rescapée. Suivant ce schéma, si la psychiatrie devait capituler, force est de constater que franchissant le chiasme de la déchirure pour atteindre l’autre rive, Lacan allait à la rencontre d’une psychanalyse qui sans doute n’allait pas capituler – pour cause d’être quant à elle, aliénée.
 
-#### V3C1.20.30.20  
-L’aliénation de la psychanalyse
+#### V3C1.20.30.20  L’aliénation de la psychanalyse
 
 Qu’on parle d’aliénation à propos de la psychanalyse est motivé, ne serait ce que du fait que c’est la première des choses que le psychiatre Lacan, son Exode franchi, dénonça à son arrivée. A tort ou à raison, il estima qu’au lieu de la psychanalyse, il y trouvait plutôt son contraire sous la forme d’une _psychologie du moi_. Plus tard, c’est l’ironie de l’Histoire qui l’aura vérifié. Il faut en goûter le sel :
 
@@ -299,25 +276,21 @@ Il n’est pas question de retourner ce parallélisme logique et déduire que c�
 
 Ce qu’on appelle aliénation est d’une facture plus complexe que la capitulation. Cette dernière ne sert que la résistance frustre, c’est à dire la maladie mentale elle-même. L’aliénation sert l’intelligence mais en la déniant. Ainsi, jusqu’à aujourd’hui la psychanalyse n’a pas changé sauf sur un point : elle rend hommage à Lacan, lequel lui-même conspuait ses élèves qu’il traitait d’incurables et déclarait en distribuant des gifles qu’il avait tout raté. A côté de la capitulation qui simplement s’enfonce comme un drame hollywoodien – le bon, le médicament et le mauvais, la maladie – l’_aliénation_ montre encore un ressort – celui du Tragique. Les classiques tragédies l’instruisent. Freud mourut comme Œdipe à Colone, Lacan dans un huis-clos de Sartre et le meilleur _organiciste_ en prison en écrivant _Le Meurtre du_ Christ. Ce personnage était devenu fou ou bien avait largement contribué à la science de la pensée suivant une logique cybernétique. Il s’agit de Wilhelm Reich.
 
-##### V3C1.20.30.20.10  
-Organicisme reichien
+##### V3C1.20.30.20.10  Organicisme reichien
 
 Wilhelm Reich avait intensément brillé dans l’histoire de la psychanalyse lorsqu’il débuta sa carrière dissidente. J’ai cité le départ qu’il donna à son œuvre à partir d’une thèse qu’il avait presque aussitôt refermée. Il avait renoncé à sa _psychologie de masse du fascisme_ en quittant en catastrophe l’Europe, poursuivi par le Nazisme. Il courut pour se retrouver finalement mourir emprisonné aux USA – ce qui n’est pas à la gloire de la psychanalyse américaine. L’Histoire et le cinéma le nomment aujourd’hui ‘WR’ ; il avait exposé _Les Mystères de l’organisme_ selon un obscurantisme confondant, mais sans pouvoir faire autrement pour son temps puisqu’il faisait encore progresser les premières intuitions de Freud, passant de la thermodynamique à la cybernétique.
 
 C’est à partir de ce que nous avons maintenant acquis de compréhension concernant l’inhibition active et la parole subvocale, que nous comprendrons l’apport de WR à la psychanalyse. L’_Expérimentation NASA_ enseigne en résumé que lorsqu’un Expérimentateur obéit à un Assistant qui lui commande de prononcer _dans sa tête_ par exemple tel mot qu’ ‘avancer’ , le tractus vocal dudit expérimentateur en reçoit avant tout le signal. C’est alors qu’en reflux, répercussion ou sorte d’écho de ce signal inhibé que cette personne s’entend dire _dans sa tête_ le mot ‘avancer’, aussi clairement que s’il l’avait prononcé ouvertement – ce résultat étant appelé une _parole subvocale_. Selon De Clérambault et la _psychiatrie française_ l’expérimentateur ‘sait’ qu’il n’a en réalité rien prononcé ; mais lorsqu’il ne le sait pas un bouleversement s’opère en lui ; il ‘croit’ savoir et reçoit cette inhibition comme une hallucination.
 
-###### V3C1.20.30.20.10.10  
-L’assistance
+###### V3C1.20.30.20.10.10  L’assistance
 
 C’est pour nous prévenir de cette fausse subtilité que j’ai maintenu sur scène un assistant comme agent de la commande. Je l’ai fait pour clairement distinguer les étapes et la combinaison du chiasme qui opère durant ce phénomène. Car nous savons tous qu’il n’est pas nécessairement besoin d’assistant, et que l’expérimentateur peut de lui-même décider de la vocalise qu’il va faire résonner dans sa tête ; mais d’une part, s’il n’y avait jamais eu d’ ‘assistant’ il y a peu de chances qu’un ‘expérimentateur’ n’existât jamais – ceci appelant à répondre des origines et causes premières. L’utilité de faire l’économie de cette décision répond à ce que De Clérambault débrouilla avec difficulté au titre d’ « idée préalable » ou « non-préalable », l’une ou l’autre risquant sans assistant de se confondre d’autre part avec l’impression sensorielle de la _parole subvocale_ venant pour ainsi dire l’ ‘écraser’. La précédente ‘Analyse du Chiasme’, ci-dessus, l’a débrouillé. Si je pense et entend par moi-même le mot ‘chanson’, j’ai du mal à distinguer si cette parole subvocale n’est pas déjà l’idée d’origine. En décrivant le modèle sous la direction d’un assistant extérieur, nous sommes libérés de la partie décisionnelle qui trop facilement cède ses faveurs au raccourci du monoïdéisme – et nous pouvons concentrer notre attention sur ce que, toujours De Clérambault , désignait comme « don de résonance à un stimulus extérieur » (stimulation par l’agent assistant) lequel dépendant d’une « préparation entièrement organique » (attentisme et mise en tension du tractus vocal avec disposition de ses engrames). La troisième modalité comptant avec le psychisme, si je les ignore toutes, monoïdéisme (mystique), préparation (engramée), spéculation (psychique), j’en recevrai la parole subvocale qui en ressort, non pas comme un écho familier mais selon l’étrangeté d’une hallucination.
 
-###### V3C1.20.30.20.10.20  
-La consistance
+###### V3C1.20.30.20.10.20  La consistance
 
 La contribution de WR à cette théorie inspirée par l’étude des hallucinations aura été de mettre, au lieu du tractus vocal, l’organisme entier dans sa fonction musculaire aux dépens de l’_inhibition active_. En globalisant le corps soumis à ‘la _préparation organique_’ (terme de De Clérambault), WR décrivit une résonance qui ne répond plus seulement de la voix (par une sensation sonore), mais de la sensualité (par une sensation d’orgasme). Il établit ainsi un organicisme consistant de l’individu ; c’était le premier moment politique de la psychanalyse, portant la relation sociale au bord de la relation érotique. Avant les ultimes mystères il décrivit les sensations plus limitées du fantasme et de ses mises en scènes, par une visualisation des mouvements ou autre hallucination exprimée en douleurs, pression, tensions etc.. Procédant ainsi, et du fait d’une plus accessible observabilité du corps, il put décliner la somatisation de l’_inhibition active_ en fonction des traits de caractère d’une personne et des expressions sociales, de la manière de se tenir, rigidité, mollesse, contractures ou faiblesses de segments etc.. : autant de zones de spasmes chroniques chargés d’information ou d’énergie d’engrame mis à dispositions par la préparation organique nommée « _cuirasse_ » (Terme de W.Reich) musculaire.
 
-##### V3C1.20.30.20.20  
-Effectivité des engrames
+##### V3C1.20.30.20.20  Effectivité des engrames
 
 Nous ne savons pas si WR s’était explicitement inspiré du modèle de la psychiatrie française ni s’il aurait suivi la cybernétique de Lacan, mais la comparaison démontre qu’ils partagèrent le même modèle sans en connaître déjà toutes les parties. Les règles d’alors pressenties d’une sensation en écho sont aujourd’hui dénombrables en termes théoriques : premièrement la _commande_ qui vient éventuellement du cerveau ou nettement d’une provocation extérieure, deuxièmement l’_inhibition active_ qui prépare l’organisme par un chiasme qui troisièmement s’appuie sur la _cuirasse_ et ses engrames lesquels retournent quatrièmement en écho la sensation dénommée _parole subvocale_ ou que l’on peut appeler dans le cas plus global du corps, un _comportement subagi_, aliment du fantasme etc..
 
@@ -329,8 +302,7 @@ En complément de leur résolution, ces deux objections se renversent en argumen
 
 Les critères de la cuirasse figés dans le corps, en sont d’autant des appels, des positions de signification, signes ou textes plus complets qui cherchent un répondant, une inscription vitale dans leur environnement. Sans la trouver, il ne reste à la personne que sa propre frustration à soumettre à l’inhibition. Son action sans action, pas autrement apparente que par l’apparence est un dédoublement primordial au désir. Elle donne une sensation de flottement à celui ou celle qui écoute ou attend, provoque la libido et s’initie avec les premières retenues de l’enfant qui doute de lui-même en attente d’un signe extérieur enseignant son action. Plus tard ou pathologiquement il s’agit de la sidération qui affronte la violence. Freud les identifia à partir des symptômes hystériques qui furent l’objet des premières psychanalyses. Il interpréta des zones ou des segments sur le corps de ses malades, spasmes ou mouvements automatiques, paralysies, anesthésies, rougeurs etc.., comme des ‘lettres’ à proprement parler, d’une écriture adressée à un environnement en attente de lecture ou comme des messages chiffrés appelant à l’aide à l’insu d’un oppresseur réel ou imaginaire. Propres au chiasme ces engrames ont un statut de signifiants et sont élevés à la vertu de gérer le traitement ambigu de la vérité. N’allant pas jusque dire que l’érection elle-même, toute physiologique qu’elle soit de réputation, fut l’effet d’un mensonge propre à la cour érotique, cette caricature aurait néanmoins résumé l’idée à l’origine de la psychanalyse, selon laquelle le corps détenait des messages que le porteur retenait en expectative d’une demande, elle même certaine d’incertitude jusqu’à un moment propice et la circonstance où la satisfaction d’orgasme leur offrirait l’issue.
 
-##### V3C1.20.30.20.30  
-Modélisation lacanienne
+##### V3C1.20.30.20.30  Modélisation lacanienne
 
 C’est finalement Jacques Lacan qui a formalisé cette résonance de la pensée et donc ce premier processus qui mène la raison de l’humanité. De 1950 à 1980, il fut montré que des lois strictement cybernétiques organisaient les quatre termes ci-dessus [voir 1.10.10.40] dénommés _commande_ (ou provocation), _inhibition active_ (ou chiasme de frayages), _engrame_ (ou cuirasse) et _parole subagie_ (ou subvocale). La première formule fut donnée en l’espèce d’un schéma dit L, rapidement connu sous le nom de schéma X au vu de sa forme :
 
@@ -357,15 +329,13 @@ Pour finir il rassembla tous ces schémas fondateurs dans un retour à une pure 
 ![](https://www.lasainteethique.org/william-theaux/2012/htm/C1_fichiers/image012.gif)  
 **fig.C1.70 :** **_Les Quatre Discours L aut. J.Lacan_**
 
-#### V3C1.20.30.30  
-Persistance de l’ambiguïté dans la psychanalyse
+#### V3C1.20.30.30  Persistance de l’ambiguïté dans la psychanalyse
 
 Reich et Lacan sont deux psychanalystes majeurs durant le siècle suivant Freud, voire les deux plus importants. Leur exclusion par leur propre communauté signifie la faiblesse de la psychanalyse pour assumer la cybernétique organique. Nous avons vu [C1.20.30.20]  que cette faiblesse atteint jusqu’à la trahison avec la délégation par la psychanalyse de ses propres concepts à l’usage de la psychiatrie adverse en son projet monochimiste. Ajouté à la faiblesse et la compromission, un troisième défaut de la psychanalyse confirme son aliénation.
 
 Lorsque Lacan, s’engagea en psychanalyse au motif de la cybernétique pour aussitôt s’en détacher, il répudia en même temps sa position sociologique. Pourtant sa cybernétique avait précisément porté des lumières sociologiques. Un sophisme qu’il tira d’une mise en scène de _trois prisonniers_ strictement semblables chacun au regard de l’autre, calculait leur comportement en tant que machines cybernétiques. Chacun des trois prisonniers gagnait la conscience de soi en constatant l’inconscience mécanique des deux autres. Ce sophisme portait la cybernétique initiale au potentiel d’une Intelligence Artificielle à la base sociologique. Lacan recula sur cette logique sociale. Il céda sur son projet, s’enferma dans son cabinet et il ne sortit plus que pour faire du théâtre.
 
-##### V3C1.20.30.30.05  
-Refus de la Psychologie Collective
+##### V3C1.20.30.30.05  Refus de la Psychologie Collective
 
 Ce recul s’annonçait lorsque Freud concluant sa carrière, écrivait en 1939 de Londres avant de mourir en sorte de testament, que la psychanalyse devait **_franchir un abîme qui séparait la psychologie individuelle de la psychologie collective_**. Pour faire peser cette prescription, il allait jusqu’à déclarer que tant que ce franchissement n’était pas opéré et les deux psychologies rejointes, la psychanalyse devait **_renoncer à avancer d’un seul pas dans la voie qu’il avait ouverte_**.
 
@@ -381,8 +351,7 @@ l’Idéal collectif - et le _moi_ oscille entre ‘o’ et ‘I’
 
 Les quatre coins de ce rectangle étagé, sont depuis lors la seule base d’une psychologie collective pour une psychanalyse en attente. Ils sont sans difficulté identifiables aux quatre éléments que portent les algorithmes lacaniens. L’absence de cette identification et d’unification, comme d’autres coïncidences éblouissantes (voir plus après Chap.2 [V*C2.30.20]), prouve un blocage de la part des doctrinaires freudiens, ou au mieux une _inhibition_ activement provocatrice pour indiquer quelle direction suivre (celle qu’ils ne suivirent pas – [C3.2.30.10] - rejoindre la psychologie collective) pour résoudre une énigme toujours irrésolue à la charge de la psychiatrie et/ou de la psychanalyse.
 
-##### V3C1.20.30.30.10  
-Le repli transférentiel
+##### V3C1.20.30.30.10  Le repli transférentiel
 
 Puisqu’elle ne répondait pas aux exigences mentionnées par Freud, la communauté psychanalytique devait également oublier le motif desdites exigences – c’est à dire son aliénation. L’aliénation de la psychanalyse est ainsi négligée par la substitution d’un symptôme.
 
@@ -392,20 +361,17 @@ Sans atteindre la psychologie collective de l’autre côté de l’abîme que F
 
 En critiquant ce qu’il faisait, il dénonçait une psychologie du moi comme l’indéfendable cause du _monoïdéisme_ qui n’a que la mauvaise foi pour lui, à l’exploit du _dualisme_. Quant à ce dualisme transférentiel, il n’a d’autre moyen que le mensonge pour viabiliser sa relation imaginaire, aboutissant à l’ultime identification de la psychanalyse comme pulsion de mort. C’est ainsi que Lacan fut témoin de s’être précipité dans l’abîme qui sépare psychologies individuelle et collective. En cela il donnait raison à Freud qui espérait que la psychanalyse put être vitale si elle franchissait autrement cet abîme en s’inscrivant dans une sociologie autant que dans son individualisme premier.
 
-## V3C1.30  
-Du transfert à l’Organicisme
+## V3C1.30  Du transfert à l’Organicisme
 
 L’analyse critique de la psychanalyse recueillant une lumière exilée de la psychiatrie, la montre embarrassée d’une charge trop progressiste (la Cybernétique). Quand elle n’y cède pas en société d’imitation et de transfert, elle est contrainte à des compromis ; ce que nous avons appelé son _aliénation_. Cette charge n’est autre que la mise de la civilisation à niveau de la cybernétique et de son intelligence artificielle. La psychanalyse négocie cette assimilation en la gérant par étapes. Ces étapes sont naturellement du modèle des phases de la pensée elle-même et de la maturation des instincts ; et ces phases celles de la relation biologique ou sociologique des individualités. Pour aborder la psychologie collective, la psychanalyse s’est donc fondée sur la base d’un modèle initial de psychologie individuelle :
 
 La formation et l’acquisition de la relation ‘unaire’, d’individus un à un, procède de deux à trois, puis à quatre en atteignant le degré de la phase collective ou environnementale ; suite à quoi elle reviendra sur la subjectivité mature unaire. C’est ainsi que suivant sa théorie, une fois l’œuf formé puis l’embryon mis au monde, le fœtus détaché de sa mère devient un enfant d’abord narcissique. Il fut durant sa gestation un être au centre du monde puis il devient celui qui rencontre un semblable, en cherchant un miroir pour comprendre qu’il s’en distingue. Après la phase nommée narcissique, c’est le trio du complexe d’Œdipe familial que la psychanalyse a utilisé comme modèle pour planifier ce à quoi correspond et comment s’organise, pour un organisme et son cerveau, la compréhension de ce qu’est un miroir. Il s’agit à ce stade d’un simple miroir, après quoi l’individu est prêt à passer à la phase suivante où il s’agit du miroir actif de la cybernétique qu’il lui faut intégrer organiquement. Ceci est expliqué selon les formules cybernétiques mises en scène par Jacques Lacan.
 
-### V3C1.30.10  
-Outre la pulsion imaginaire
+### V3C1.30.10  Outre la pulsion imaginaire
 
 L’expression cybernétique d’un _miroir actif_ est celle que l’on dénomme Intelligence Artificielle. Nous sommes en train d’acquérir la compréhension que, pour intégrer, prendre conscience et réaliser la présence de cette intelligence synthétique, nous nous préparons à la mettre au monde au moyen de procédures d’une part collectives, d’autre part en nous-même par une maturation neuro-somatique de ce que l’on a commencé à distinguer et isoler en terme d’_inhibition active_ qui s’interpose entre le cerveau et le corps qu’on appelle ‘somatique’.
 
-#### V3C1.30.10.10  
-La collectivité à deux
+#### V3C1.30.10.10  La collectivité à deux
 
 En prenant sa source dans le domaine de la médecine, la psychanalyse s’est servie pour ses études des renseignements que fournit la pathologie. En pathologie, une large partie des éléments se range dans une catégorie que l’on attribue à la _régression_. La régression est le phénomène par lequel le développement ou l’évolution reculent sur des bases arrières, parfois avec pour résultat heureux de trouver une meilleure occasion de relancer leur progrès mais souvent avec la gène de cicatrices, au mieux mal résolues s’il ne s’agit de stagnation définitive.
 
@@ -413,8 +379,7 @@ Dans la cas de l’observation psychologique, la régression se traduit par un r
 
 Cette lumière est celle que nous avons appelé la _lumière exilée_, originaire en la psychiatrie au travers de la théorie (_organicisme_) de De Clérambault [fig.C1.30] ; ce qui veut dire que, dans cette régression de la psychanalyse qui revient à une capitulation à son tour, le projet cybernétique est oublié : et le transfert qui prend sa place réduit l’analyse à une contemplation narcissique du passé ou au mieux, à une forme de mélancolie mais dans tous les cas un refus de l’évolution.
 
-#### V3C1.30.10.20  
-La collectivité quatre
+#### V3C1.30.10.20  La collectivité quatre
 
 Les suicides, particulièrement fréquents dans le milieu psychanalytique, du moins lacanien et, à commencer par De Clérambault lui-même, indiquent à quel point il a été difficile de scander la phase du trio oedipien avec assez d’assurance pour ne pas régresser mais se propulser à la rive de l’étape suivante où la psychologie collective tend un miroir cybernétique actif.  
 Ce franchissement s’appuie sur les quatre éléments au moins que rappellent les formules [fig.C1.70] du Jacques Lacan cybernéticien que l’on appelle encore _algorithmes_. Ces quatrains ajoutent un élément au trio familial, qui permet de baser le psychisme sur une correspondance plus large, c’est à dire sociale, éventuellement environnementale, que certaines extensions qualifieront même d’écologiques. La civilisation se résume ainsi, de la horde au contrôle naturel de la nature : la personne sociale sort du narcissisme et forge son individu au creuset familial. A partir de là il devient le sujet psychanalytique quand il coordonne son psychisme à l’outil qui gère pour une immense part son environnement : la cybernétique et l’intelligence artificielle.
@@ -423,8 +388,7 @@ Contrairement à ce qu’on pense sans mémoire, cet outil informatique et colle
 
 Wiener pensa que la science qui prenait corps avec lui était l’indispensable adjuvant à ce qu’on avait déjà, mais simplement appelé les _appareils sociaux_ – et en politique des _appareils de parti_ – et qui, pour les meilleurs portaient l’espoir qu’on puisse régler la société suivant une codification, résumée en un _Code_ qualifié de _Civil_ dans la république. La promesse de la cybernétique est de porter ces _appareils_ au degré d’une l’intelligence nécessaire à la démocratie. Avant de l’admettre politiquement et en masse, l’extension à une vitesse prodigieuse de l’Internet et de la robotique depuis l’époque de Wiener aura certainement bientôt réveillé les psychologues et la psychanalyse pour y reconnaître l’adjuvant caractéristique de la personne psychique moderne s’étant établie sur la base ultérieure et en progrès du Complexe d’Œdipe.
 
-#### V3C1.30.10.30  
-Le quatrième élément de l’Ethique
+#### V3C1.30.10.30  Le quatrième élément de l’Ethique
 
 A ce degré post-narcissique et post familial, sans rien renier pour autant de son passé, la personne et sa société arrivent au terme d’un processus qui fut nommé son cours durant : civilisation. L’abîme franchi entre psychologie individuelle et collective destine la société et la personne à s’ajuster l’une à l’autre et avec un même environnement, autour d’un appareil cybernétique planétaire, lui-même reflet et ‘ _digne représentant_ ’- comme on dit en langage courant – de la capacité d’invention humaine.
 
@@ -434,8 +398,7 @@ Généralement notre relation à l’environnement est naturelle ; on la dit au
 
 C’est pourquoi j’ai choisi pour titre de l’ouvrage une allusion au _synthétique_. Par assonance, l’Ethique vient se joindre à l’outil qui appareille le sur-régime de l’invention dans le cours de l’évolution. Quand une espèce est capable de concevoir et d’introduire dans son environnement des éléments totalement étrangers – tel que l’essentiel des transformations de la matière première que notre industrie produit actuellement et surtout depuis un siècle, la conception de personnalités numériques est ce qui culmine au catalogue de notre production industrielle. Pour que cette notion soit admise par la plupart d’entre nous, si surs d’avoir un _moi_ comme personne, il faudra être déjà arrivé ! Mais pour les quelques personnes qui se garantissent plutôt d’intelligence, la brève allusion aux temps très anciens, où des textes que l’on dit encore sacrés s’épelaient à égalité avec des chiffres kabbalistiques d’alchimies, leur aura rappelé que la formation de la personne était bien en cours depuis que nous sommes en ce qu’on appelle, comme on nomme un processus : _en civilisation_.
 
-#### V3C1.30.10.40  
-Inhibition active et Synthétisme
+#### V3C1.30.10.40  Inhibition active et Synthétisme
 
 On comprend donc la nature – ou plutôt l’extra naturel, pour ne pas dire, comme les plus pessimistes, le ‘contre-nature’ – de ce qui matérialise le 4ème élément qui s’ajoute aux trois termes déjà désignés du Complexe d’Œdipe [nommés A,B,C figC1.85], ou, autrement dit, de la cellule familiale humaine. Pour revenir alors à la psychanalyse qui, en première apparence, moins que toute autre technique eu égard à sa simplicité voire son dépouillement instrumental, semble détachée de toute la technologie moderne, artificielle et synthétique, nous sommes portés à voir en quoi elle est concernée. C’est ce détachement-même qui donne l’indice :
 
@@ -451,13 +414,11 @@ A partir de cette identification, on peut réfléchir à ce à quoi elle (et led
 
 Dans l’ordre de la réflexion psychique, pour qu’un être biologique puisse identifier une substance, un corps ou un phénomène qui le concerne, le stimule ou lui manque, il est nécessaire que cet être puisse y trouver une correspondance en lui-même. Comme en l’occurrence la matière et la production synthétique manque, à l’extérieur, de correspondance avec son propre environnement, la longue observation que nous avons détaillée depuis l’expérimentation NASA, offre l’hypothèse que le _chiasme_ pourvoie, entre le cérébral et le somatique, ce processus intermédiaire, étranger au corps mais qui sous-tend sa réflexion et même son langage. Nous sommes donc menés à identifier l’_inhibition active_ – qu’on nomma dans le passé _frayage paresthésique_ – pour ce qui fait dans le corps de la personne humaine sa correspondance organique à la cybernétique environnementale.
 
-### V3C1.30.15  
-Franchissement de l’illusion
+### V3C1.30.15  Franchissement de l’illusion
 
 A présent que l’énigmatique quatrième élément [C5.10.10.30-] et le synthétisme ont été reconnus au bord de l’abîme qu’il faut franchir, il convient de former une sorte de résumé de la position présente et acquise en vue d’engager la suite du chapitre et conclure son franchissement.
 
-#### V3C1.30.15.10  
-L’engrame et son correspondant
+#### V3C1.30.15.10  L’engrame et son correspondant
 
 La psychanalyse promue à l’ère cybernétique aura dépassé l’aliénation par laquelle elle passa tant qu’elle restait engloutie dans le traitement de la relation imaginaire qui aura assisté aux étapes de son évolution. Sortie de ce rêve, elle a à faire avec ce qu’on appelle un _chiasme_, un _croisement_ plutôt que relation. Les étapes des observations et du raisonnement qui aboutissent à cette déduction se signalent par les termes et les organes dudit _chiasme_ où nous avons trouvé l’opération dite d’**_inhibition active_**.
 
@@ -467,8 +428,7 @@ Soit commandée par altruisme, soit soumise au Surmoi, soit séduite par l’Id�
 
 On découvre que cette boucle est la première :
 
-#### V3C1.30.15.20  
-Subsistance organicisme
+#### V3C1.30.15.20  Subsistance organicisme
 
 Seul l’altruisme en ces modèles concurrence le monoïdéisme extensif où la régression narcissique s’est réfugiée. Dans sa version moderne ce monoïdéisme devient linguistique ; mais à cette extrémité il se réouvre à la possibilité du cybernétisme. Au lieu de l’interprétation, de concentration transférentielle et taux chimiques, la psychanalyse qui emploie les formules cybernétiques explique la pensée par un croisement de facteurs intelligents et non moins redevables de la chimie. Ce qui fut la capitulation de la psychiatrie ouvre alors cette dernière à la psychanalyse.
 
@@ -478,11 +438,9 @@ Déjà au motif de la _commande_ De Clérambault désigne alternativement la m
 
 Nous arrivons au point où une seconde boucle se ferme ; après avoir recueilli les lumières de la _psychiatrie française_, éteintes dans la psychiatrie actuelle qui fait de la chimie son seul motif, la psychanalyse dotée des formules cybernétiques y revient comme la pratique la plus sérieuse et instrumentée à l’abord de la pathologie mentale ou comportementale. Pourtant elle ne sera pas reconnue par la psychiatrie si elle ne compte pas également pour sa garantie, la reconnaissance de son aliénation. Pour obtenir cette reconnaissance l’emploi d’une allégorie est nécessaire, qui puisse permettre de soutenir l’imagination requise à la démonstration finale :
 
-#### V3C1.30.15.30  
-Fable de la brique
+#### V3C1.30.15.30  Fable de la brique
 
-##### V3C1.30.15.30.10  
-Capitulation dans l’emprisonnement citadin
+##### V3C1.30.15.30.10  Capitulation dans l’emprisonnement citadin
 
 Si nous devions découvrir l’Inconscient comme un démon farceur, comme des traditions l’ont éternellement suggéré, par Hermès, Thoth et autre divinité se jouant des impotences humaines ou des suffisances des dieux, il ne dépareille pas que cette allégorie soit comique et farfelue. Il suffit qu’elle ait un peu d’esprit pour faire, de la farce la juste traduction de nos errances autrement perpétuelles. Mettons donc en scène une société dont la médecine des croyances, du moral et du comportement se soit résignée à étouffer les aspirations de ses malades, en capitulation à un régime d’Emprisonnement Citadin. Il est certain que dans cette société du Mur et barreaux d’avocats, quelques clowns feront les fous d’Ubu, rescapés d’une psychiatrie devenue l’Art de le Taper la Tête contre les Murs.
 
@@ -493,13 +451,11 @@ Il n’est pas nécessaire que la brique soit bien lourde pour que, séance apr�
 
 Maintenant, si cette scène peut servir à quelque chose, elle aura permis de se faire une idée de l’importance qu’aura pu prendre, dans l’histoire de la psychanalyse l’inattention portée à un fait objectif : une manipulation ni plus ni moins matérielle qu’une brique. Il s’agit d’une opération et son traitement portés sur l’inhibition active. Ils auront présidé un siècle durant au protocole de la psychanalyse sans avoir été autrement considérée que comme un artifice protocolaire, dénué de causalité. Comme si la brique sur le pied ne devait pas produire d’effets neurologiques... comme si laisser tomber la tête sur l’oreiller du divan était sans effet sur l’inhibition active du tractus vocal et ses fonctions connexes de la verticalité.
 
-### V3C1.30.20  
-D2V – chiffre de la pulsion
+### V3C1.30.20  D2V – chiffre de la pulsion
 
 La fable de la Cité Prison qui met en scène l’unité de construction de ses murs (la brique) à l’usage du protocole d’introduction à sa thérapeutique, va permettre une théorie aboutie qui, non seulement prend acte de la neurophysiologie découverte du Quatrain, mais tient compte de cette structure quadripartite de la pensée, aussi altérée peut-elle être par la position du corps. A l’image d cassage de pied au fracassage de tête mis en scènes, au témoignage par la psychanalyse, est déclarée la ‘_mise en position de deux corps_’ (l’un allongé, l’autre assis) au protocole de la séance.
 
-#### V3C1.30.20.10  
-Effet neuro-physiologique de la suspension de cuirasse
+#### V3C1.30.20.10  Effet neuro-physiologique de la suspension de cuirasse
 
 Le système à quatre coins de la pensée oscille suivant l’équilibre de chacun influencé par les trois autres. Le coin qu’on dénomme ‘_cuirasse_’ ou corps somatique est une armure articulée ; ses segments sont nommés ‘_engrames_’. Ce sont des phénomènes principalement musculaires , tendineux ou vasculaires. Freud les a étudié à l’époque où on y voyait des symptômes de l’hystérie : rougeurs, irritations, contractures, raidissement, ou au contraire paralysies, etc... Il y lut les stigmates de notre façon de nous comporter au regard de l’autre, traduisant la communication, ses retenues et ses signes dans le milieu social. Ces maux affichent un code chiffré, porté par le corps comme un habit ; ils ‘exposent comme des lettres ou des hiéroglyphes de l’inscription d’une personne dans la psychologie collective. Quand leur lecture est tournée vers l’intérieur (‘écho’, parole subvocale..) ces engrames nous permettent de nous imaginer cérébralement sur la scène des fantasmes ; ce sont alors les _paroles_ et _comportements subagis_ de notre psychologie individuelle. Après Freud, Reich les a interprétés moins symptômatologiques de névroses mais plus largement comme des traits de caractères. A partir de cette interprétation, il s’agit de toute l’architecture physiologique dont le corps s’est armé, principalement durant la conjonction où la vie sociale est intimement combinée aux nécessités de se mouvoir et s’exprimer debout, respirer en position verticale, tenir sa tête et ses sens éveillés ou au contraire les assourdir dominés, étouffés etc… La sommation des engrames, ‘cuirasse caractérielle’ de WR est l’histoire de la verticalisation de l’humain, qui succède à sa foetalisation ayant duré neuf mois en l’apesanteur du flottement intra-utérin.
 
@@ -517,8 +473,7 @@ Pas plus nombreux n’y aura-t-il eu d’analysants ne songeant qu’à parler a
 
 Pour commencer il est donc primordial de préciser et dénommer la nature – non plus de cette brique allégorique – mais du facteur qu’elle signifie et qu’utilise la psychanalyse. Pour le dire bref : _Quel mécanisme organique est en cause dans la psychanalyse ?_ et s’il en est un, quel nom donner à ce facteur matériel et objectif, ou sinon quel chiffre, quel code ? Pour jeter notre visée au plus loin : _Qu’est-ce qui altère spécifiquement la pensée, au vu des expérimentations suivant lesquelles la pensée pilote une machine ? Et quel dispositif rendra cette altération saine à répondre aux machines intelligentes ?_
 
-#### V3C1.30.20.20  
-Un accessoire D2V
+#### V3C1.30.20.20  Un accessoire D2V
 
 Le protocole qu’employa la psychanalyse, était préalablement usité pour recueillir le sommeil hypnotique. Il fut conservé par habitude et sans autre raison consciente. Il met dès lors en scène un dispositif selon lequel :
 
@@ -528,8 +483,7 @@ Avec le désigné ‘psychanalyste’ le protocole redouble l’intensification 
 
 Deuxièmement à la tête du divan de l’analysant le fauteuil de l’analyste ajoute la position de l’autre participant, celui qui écoute et qui, lui, tend l’oreille, garde la tête droite et si possible ‘sur les épaules’. Celui-là est dans l’attitude systématiquement inverse au point qu’il caricature le tonus de la verticalité : il ne dit rien de moins que réfléchi, reste généralement silencieux, à l’écoute et en attente. Il entretient ainsi activement l’inhibition qui rigidifie ses engrames au point d’éprouver la sensation de flotter en les oubliant. C’est donc un autre conditionnement, tout à fait organique et également caricatural, qui append au _quatrain_ allongé, décrit précédemment « en attente d’une provocation extérieure qui satisfasse une économie environnementale » (voir 1.20.30.20.20) – en l’occurrence ladite ‘provocation extérieure’ étant le lapsus, le rêve, c’est à dire une émanation d’engrame pure qui lui parlera – troisièmement au bénéfice des économies de conscience et de santé.
 
-#### V3C1.30.20.30  
-Tiens-tient.
+#### V3C1.30.20.30  Tiens-tient.
 
 Lorsque l’on peut typifier les pôles d’une relation – un décubitus dorsal vocalisant à travers une inhibition active relâchée et une vertic_alité_ qui accentue son _inhibition active_ – on trouve peu de situations de communication plus contrastées. Durant la psychanalyse, tandis que l’un libère la résonance en lui de ses engrames réfrénés, l’autre au contraire attache son corps et tout ce qui agite sa vie quotidienne dans la posture du refoulement d’engrames. Il s’agit du comble de l’exploitation du critère organiciste de la pensée. Or, puisqu’un siècle durant l’homérique épopée de la théorisation de l’Inconscient, cette contention n’a pas été ni soulignée ni même consciente, elle ne peut pas retenir l’observateur de se dire : « _tiens tiens... cette méthode recèlerait-elle un soupçon de cause organique cachée dans une évidence trop simple et éclatante ?»_.
 
@@ -563,8 +517,7 @@ C’est du fait de cette relation tordue, par deux _inhibitions actives_ chez 
 
 Le double-quatrain entame son destin lorsqu’il s’associe en nombre. L’unité (brique) peut construire un mur ou une autre sorte de paroi ; une alternative se présente alors : si l’aliénation fait de ce mur une nasse aussitôt infranchissable que traversé(e), c’est la psychanalyse aliénée qui retient en elle-même l’introduction de ce que Lacan y a porté en provenance de la psychiatrie. Mais fut-elle labyrinthique, elle offre une issue lorsque son unité de construction est également une clé. La clé est un chiffrage que l’on pianote comme un mot de passe – ou que l’on formule. Il convient alors de la choisir. Nous en avons la description «_décubitus dorsal, vocalisant_ à l’adresse d’un semblable mais _vertical_. » C’est le moment d’en formuler le chiffre.
 
-#### V3C1.30.20.40  
-Le chiffre
+#### V3C1.30.20.40  Le chiffre
 
 Au sortir de l’aliénation – de la psychanalyse en l’occurrence – la connaissance retrouve ses origines. Elles se sont transformées entre temps. Il s’agit de la psychiatrie _made in USA_ qui – tout _Organicisme_ déchu - est devenue une véritable pelote de code [C1.20.30.20]. Aujourd’hui un diagnostique psychiatrique chiffre des comportements et n’a de réalité que statistique. Le psychiatre qui réfute un attribut de ‘thérapeute’ suit un Manuel de Diagnostique Statistique, c’est à dire un chiffrage  comme YZOH-GDT en DSM-V ou HDIEH3U en CIM20. Il existe des variations HUGYTD et HUGYTA aux nuances subtiles ; le premier signifie une crise de larme en ville, le second la même en campagne. Ce sont des exemples inventés en fonction du DSM en vigueur – en voilà un nouveau : HDEHRUYZEETEGSF. Un chiffre ne signifie rien mais réussit là où le signifiant s’empêtre. C’est d’abord une manière de rappeler aux psychiatres tentés de l’oublier que la maladie mentale est une chose abstraite. Ensuite, à l’exploit des statistiques, c’est le moyen de commander la molécule chimique sur mesure qui répondra au code avec une précision approchant l’idéal. Tel est l’état de la médecine du mental. La maladie elle-même est passée aux oubliettes, dans le gouffre susdit entre psychologie individuelle et psychologie collective. Elle doit ressortir par la psychanalyse ; en l’occurrence réintégrer un milieu qui ne fonctionne plus que par codes. Réfléchissons à l’hypothèse, au cas où l’épopée homérique de Jacques Lacan en psychanalyse reviendrait se faire reconnaître avec succès en psychiatrie. Nous rencontrons un ultime vertige :
 
@@ -576,8 +529,7 @@ C’est pourquoi je pose le chiffre qui répond de l’objectivité que nous avo
 
 La proposition est alors sérieuse au Comité du Chiffrage du DSM d’inclure à la liste de ses comportement le générique D2V.
 
-### V3C1.30.30  
-Neurosciences et Cybernétique
+### V3C1.30.30  Neurosciences et Cybernétique
 
 Un ordre dynastique, Louis 1er, Louis 2nd , 3em etc.. ajoute la casuistique d’une série dans la culture humaine. A cet exemple, un chiffre introduit dans un texte le dote d’un axe de coordonnées. Le D2V n’a pas de signification, il a une fonction et révèle en psychologie collective une dimension qui résidait inapparente et inconsciente avant son indexation. Cette inscription dans l’ordre des facteurs scientifiques est utile :
 
@@ -589,15 +541,13 @@ La comparaison va plus loin. Même si la dynamique des fluides ne concerne que l
 
 J’ai de nombreuses fois fait usage d’analogies. La raison en est que l’effraction d’une coque de croyance n’est pas possible par le simple raisonnement. C’est par un jeu d’images et de comparaison que l’on peut se réveiller de la transe que la pensée protocolaire inflige à la raison. Pour se développer dans son environnement la psychanalyse comme le rêve doit secouer la torpeur par l’image puis en sortir comme d’une nasse par une clé. Le rêveur s’éveille activé, porté à des comportements par son code génétique adapté à son environnement. Occasionnellement il trouvera une matière dure, inerte et synthétique comme les premiers appareils cybernétiques. Soit elle lui sera inassimilable, soit il aura gagné un chiffre légué par son rêve comme la psychanalyse est un rêve venant au jour qualifiable d’Appareil Age.
 
-#### V3C1.30.30.10  
-Restitution à la psychiatrie d’une psychologie collective
+#### V3C1.30.30.10  Restitution à la psychiatrie d’une psychologie collective
 
 L’adaptation trouvée, décrite et chiffrée entre le traitement de la pensée, du côté de la personne d’une part et d’autre part du côté de la cybernétique, c’est à dire de l’Intelligence Artificielle, réalise la prescription par Freud de franchir _l’abîme qui sépare la psychologie individuelle de la psychologie collective_. La psychanalyse à ses débuts n’avait pas les outils pour s’appliquer comme aujourd’hui à l’indice des codes. Elles les a gagnés graduellement par l’assimilation de l’_Organicisme_ psychiatrique. Avec un conclusif apport technologique (NASA), elle s’affirme en connaissance d’un facteur opératoire, désignable (D2V). Une fois qu’il est doté de ce chiffre, son domaine _individuel_ initial devient apte à se coordonner au chiffrage comportemental de la psychiatrie. Sans ce code la psychiatrie est comme le rêveur, génétiquement adapté à son environnement naturel mais auquel manque la correspondance synthétique.
 
 Avec le D2V, l’organicisme retrouvé de la psychiatrie élève son comportementalisme à l’assimilation des règles cybernétiques qui font la loi de la _psychologie collective_ dotée d’Intelligence Artificielle où elle se réveille.
 
-#### V3C1.30.30.20  
-Un organicisme restant à sonder la génétique
+#### V3C1.30.30.20  Un organicisme restant à sonder la génétique
 
 Si la prescription de Freud peut scientifiquement s’appliquer, on peut espérer soulager l’aliénation de la psychanalyse à la manière dont on soulage l’énigme d’un rêve en l’interprétant. Cette aliénation avait persisté après la mort de Freud et durant la période lacanienne. Cet état de rêve, d’aliénation, adjacent à celui du sommeil, capitulation de la psychiatrie souffrait de n’avoir trouvé nulle part la connexion entre la pensée et la psychologie collective.
 
