@@ -158,7 +158,7 @@ const doubleClickHandler = (event) => {
       <div class="shrink-0 flex space-x-2 items-center">
         <button
           class="btn flex"
-          :class="showSidebar ? (flexiMode === 'blog' ? 'text-white bg-purple-500 hover:bg-purple-400' : 'text-white bg-green-500 hover:bg-green-400') : (flexiMode === 'blog' ? 'bg-purple-100 text-purple-400 hover:text-purple-500' : 'bg-green-100 text-green-400 hover:text-green-500')"
+          :class="showSidebar ? (flexiMode === 'blog' ? 'text-white bg-indigo-500 hover:bg-indigo-400' : 'text-white bg-green-500 hover:bg-green-400') : (flexiMode === 'blog' ? 'bg-indigo-100 text-indigo-400 hover:text-indigo-500' : 'bg-green-100 text-green-400 hover:text-green-500')"
           @click="showSidebar = !showSidebar"
         >
           <IconCustom name="bi:layout-sidebar" class="w-4 h-4 -rotate-90 sm:rotate-0" />
@@ -174,7 +174,7 @@ const doubleClickHandler = (event) => {
         <button
           :disabled="scrollPos === 'start'"
           class="btn hidden sm:flex active:text-white"
-          :class="scrollPos === 'start' ? (flexiMode === 'blog' ? 'bg-purple-100 text-purple-400 hover:text-purple-500 active:bg-purple-500 opacity-30' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500 opacity-30') : (flexiMode === 'blog' ? 'bg-purple-100 text-purple-400 hover:text-purple-500 active:bg-purple-500' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500')"
+          :class="scrollPos === 'start' ? (flexiMode === 'blog' ? 'bg-indigo-100 text-indigo-400 hover:text-indigo-500 active:bg-indigo-500 opacity-30' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500 opacity-30') : (flexiMode === 'blog' ? 'bg-indigo-100 text-indigo-400 hover:text-indigo-500 active:bg-indigo-500' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500')"
           @click="scrollTopHandler('start')"
         >
           <IconCustom name="material-symbols:vertical-align-top-rounded" class="w-4 h-4" />
@@ -182,7 +182,7 @@ const doubleClickHandler = (event) => {
         <button
           :disabled="scrollPos === 'end'"
           class="btn hidden sm:flex active:text-white"
-          :class="scrollPos === 'end' ? (flexiMode === 'blog' ? 'bg-purple-100 text-purple-400 hover:text-purple-500 active:bg-purple-500 opacity-30' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500 opacity-30') : (flexiMode === 'blog' ? 'bg-purple-100 text-purple-400 hover:text-purple-500 active:bg-purple-500' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500')"
+          :class="scrollPos === 'end' ? (flexiMode === 'blog' ? 'bg-indigo-100 text-indigo-400 hover:text-indigo-500 active:bg-indigo-500 opacity-30' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500 opacity-30') : (flexiMode === 'blog' ? 'bg-indigo-100 text-indigo-400 hover:text-indigo-500 active:bg-indigo-500' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500')"
           @click="scrollTopHandler('end')"
         >
           <IconCustom name="material-symbols:vertical-align-bottom-rounded" class="w-4 h-4" />
@@ -191,7 +191,7 @@ const doubleClickHandler = (event) => {
         <button
           :disabled="scrollPos === 'start'"
           class="btn flex sm:hidden active:text-white"
-          :class="scrollPos === 'start' ? (flexiMode === 'blog' ? 'bg-purple-100 text-purple-400 hover:text-purple-500 active:bg-purple-500 opacity-30' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500 opacity-30') : (flexiMode === 'blog' ? 'bg-purple-100 text-purple-400 hover:text-purple-500 active:bg-purple-500' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500')"
+          :class="scrollPos === 'start' ? (flexiMode === 'blog' ? 'bg-indigo-100 text-indigo-400 hover:text-indigo-500 active:bg-indigo-500 opacity-30' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500 opacity-30') : (flexiMode === 'blog' ? 'bg-indigo-100 text-indigo-400 hover:text-indigo-500 active:bg-indigo-500' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500')"
           @click="scrollLeftHandler('start')"
         >
           <IconCustom name="material-symbols:vertical-align-bottom-rounded" class="w-4 h-4 rotate-90" />
@@ -199,7 +199,7 @@ const doubleClickHandler = (event) => {
         <button
           :disabled="scrollPos === 'end'"
           class="btn flex sm:hidden active:text-white"
-          :class="scrollPos === 'end' ? (flexiMode === 'blog' ? 'bg-purple-100 text-purple-400 hover:text-purple-500 active:bg-purple-500 opacity-30' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500 opacity-30') : (flexiMode === 'blog' ? 'bg-purple-100 text-purple-400 hover:text-purple-500 active:bg-purple-500' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500')"
+          :class="scrollPos === 'end' ? (flexiMode === 'blog' ? 'bg-indigo-100 text-indigo-400 hover:text-indigo-500 active:bg-indigo-500 opacity-30' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500 opacity-30') : (flexiMode === 'blog' ? 'bg-indigo-100 text-indigo-400 hover:text-indigo-500 active:bg-indigo-500' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500')"
           @click="scrollLeftHandler('end')"
         >
           <IconCustom name="material-symbols:vertical-align-top-rounded" class="w-4 h-4 rotate-90" />
@@ -237,7 +237,7 @@ const doubleClickHandler = (event) => {
           v-for="(item, index) in sidebarImgList"
           :key="index"
           class="shrink-0 w-12 h-12 ring rounded overflow-hidden"
-          :class="showImgIndex - 1 === index ? (flexiMode === 'blog' ? 'ring-purple-400' : 'ring-green-400') : 'ring-transparent'"
+          :class="showImgIndex - 1 === index ? (flexiMode === 'blog' ? 'ring-indigo-400' : 'ring-green-400') : 'ring-transparent'"
           @click="scrollTopHandler(index)"
         >
           <img :src="item.src" :alt="item.alt" class="mx-auto max-h-full">
@@ -261,7 +261,7 @@ const doubleClickHandler = (event) => {
           v-for="(item, index) in sidebarImgList"
           :key="index"
           class="shrink-0 w-12 h-12 ring rounded overflow-hidden"
-          :class="showImgIndex - 1 === index ? (flexiMode === 'blog' ? 'ring-purple-400' : 'ring-green-400') : 'ring-transparent'"
+          :class="showImgIndex - 1 === index ? (flexiMode === 'blog' ? 'ring-indigo-400' : 'ring-green-400') : 'ring-transparent'"
           @click="scrollLeftHandler(index)"
         >
           <img :src="item.src" :alt="item.alt" class="mx-auto max-h-full">

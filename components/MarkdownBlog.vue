@@ -111,7 +111,7 @@ const showTags = ref(true)
       class="my-4 w-full h-60 lg:h-72 xl:h-80 bg-cover bg-center bg-no-repeat"
       :style="`background-image: url('${props.data.cover}')`"
     />
-    <div class="py-8 selection:text-white selection:bg-purple-400">
+    <div class="py-8 selection:text-white selection:bg-indigo-400">
       <h1 class="py-4 text-3xl md:text-5xl font-bold text-center">
         {{ props.data.title || "Article" }}
       </h1>
@@ -120,7 +120,7 @@ const showTags = ref(true)
           v-if="category"
           :to="{ path: '/list', query: { category: category } }"
           target="_blank"
-          class="p-2 flex items-center gap-1 text-gray-300 hover:text-white hover:bg-purple-500 focus:outline-purple-500 focus:outline-none rounded transition-colors duration-300"
+          class="p-2 flex items-center gap-1 text-gray-300 hover:text-white hover:bg-indigo-500 focus:outline-indigo-500 focus:outline-none rounded transition-colors duration-300"
         >
           <IconCustom name="material-symbols:category-rounded" class="shrink-0 w-4 h-4" />
           <span class="text-xs">{{ category }}</span>
@@ -191,7 +191,7 @@ const showTags = ref(true)
 
     <ContentRenderer
       :value="props.data"
-      class="article-container markdown-blog-container selection:text-white selection:bg-purple-400"
+      class="article-container markdown-blog-container selection:text-white selection:bg-indigo-400"
     >
       <template #empty>
         <div class="mx-auto font-bold">
@@ -208,7 +208,7 @@ const showTags = ref(true)
     <button
       v-if="props.data?.body?.toc && props.data.body.toc.links.length > 0"
       class="p-2 hidden sm:flex justify-center items-center fixed bottom-16 right-4 z-40 border transition-colors duration-300 rounded-lg"
-      :class="showCatalog ? 'text-purple-500 bg-purple-100 hover:bg-purple-50 border-purple-200' : 'text-gray-500 bg-white hover:bg-gray-100 border-gray-200'"
+      :class="showCatalog ? 'text-indigo-500 bg-indigo-100 hover:bg-indigo-50 border-indigo-200' : 'text-gray-500 bg-white hover:bg-gray-100 border-gray-200'"
       @click="showCatalog = !showCatalog"
     >
       <IconCustom name="entypo:list" class="w-5 h-5" />
@@ -239,7 +239,7 @@ const showTags = ref(true)
   h4,
   h5,
   h6 {
-    @apply before:font-light before:mr-1 before:text-purple-300 sm:before:opacity-50 hover:sm:before:opacity-100 before:transition-opacity before:duration-300;
+    @apply before:font-light before:mr-1 before:text-indigo-300 sm:before:opacity-50 hover:sm:before:opacity-100 before:transition-opacity before:duration-300;
   }
 
   h2 {

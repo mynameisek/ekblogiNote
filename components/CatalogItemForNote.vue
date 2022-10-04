@@ -27,7 +27,7 @@ const toggleCollapseHeadings = inject<(string) => void>('toggleCollapseHeadings'
  *
  */
 const bgColorMap = {
-  2: { expand: 'bg-purple-500', collapse: 'bg-purple-200' },
+  2: { expand: 'bg-indigo-500', collapse: 'bg-indigo-200' },
   3: { expand: 'bg-red-500', collapse: 'bg-red-200' },
   4: { expand: 'bg-green-500', collapse: 'bg-green-200' },
   5: { expand: 'bg-blue-500', collapse: 'bg-blue-200' },
@@ -35,7 +35,7 @@ const bgColorMap = {
 }
 
 const textColorMap = {
-  2: 'text-purple-400',
+  2: 'text-indigo-400',
   3: 'text-red-400',
   4: 'text-green-400',
   5: 'text-blue-400',
@@ -43,7 +43,7 @@ const textColorMap = {
 }
 
 const borderColorMap = {
-  2: { expand: 'border-purple-200', collapse: 'border-purple-50' },
+  2: { expand: 'border-indigo-200', collapse: 'border-indigo-50' },
   3: { expand: 'border-red-200', collapse: 'border-red-50' },
   4: { expand: 'border-green-200', collapse: 'border-green-50' },
   5: { expand: 'border-blue-200', collapse: 'border-blue-50' },
@@ -51,7 +51,7 @@ const borderColorMap = {
 }
 
 const HeadingBtnTextColorMap = {
-  2: 'text-purple-400 hover:text-purple-500',
+  2: 'text-indigo-400 hover:text-indigo-500',
   3: 'text-red-400 hover:text-red-500',
   4: 'text-green-400 hover:text-green-500',
   5: 'text-blue-400 hover:text-blue-500',
@@ -59,7 +59,7 @@ const HeadingBtnTextColorMap = {
 }
 
 const headingBtnBgColorMap = {
-  2: 'bg-purple-500 hover:bg-purple-400',
+  2: 'bg-indigo-500 hover:bg-indigo-400',
   3: 'bg-red-500 hover:bg-red-400',
   4: 'bg-green-500 hover:bg-green-400',
   5: 'bg-blue-500 hover:bg-blue-400',
@@ -67,7 +67,7 @@ const headingBtnBgColorMap = {
 }
 
 const headingBtnBorderColorMap = {
-  2: 'border-purple-500',
+  2: 'border-indigo-500',
   3: 'border-red-500',
   4: 'border-green-500',
   5: 'border-blue-500',

@@ -548,7 +548,7 @@ const toggleAllHeadings = inject<(string) => void>('toggleAllHeadings')
           <ul
             ref="catalogList"
             class="shrink-0 overscroll-none"
-            :class="sidebarFloatForNote && floatNoteCatalogType === 'tree' ? 'space-y-2 m-4 border-l border-purple-300 rounded-md touch-none' : ''"
+            :class="sidebarFloatForNote && floatNoteCatalogType === 'tree' ? 'space-y-2 m-4 border-l border-indigo-300 rounded-md touch-none' : ''"
             :style="sidebarFloatForNote && floatNoteCatalogType === 'tree' ? `transform: translate(${catalogListTranslateX}px, ${catalogListTranslateY}px) scale(${catalogListScale})` : ''"
             @wheel="scrollToZoomCatalogHandler"
           >

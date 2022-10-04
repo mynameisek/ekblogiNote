@@ -12,7 +12,7 @@ EkNote is content driving website, it can generate web page based on lots of for
 
 It also keep evolving :muscle: to add more features.
 
-## [Contact Me]{.text-purple-500}
+## [Contact Me]{.text-indigo-500}
 
 ::GridLayout
 

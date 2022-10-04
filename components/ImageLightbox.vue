@@ -514,7 +514,7 @@ const pointerCancelHandler = (event) => {
       <button
         v-show="showBtns"
         class="h-fit px-4 sm:px-2 py-2 flex justify-center items-center text-xs active:text-white border fixed top-4 left-4 z-[1000] rounded"
-        :class="flexiMode === 'blog' ? 'bg-purple-100 text-purple-400 hover:text-purple-500 active:bg-purple-500 border-purple-500' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500 border-green-500'"
+        :class="flexiMode === 'blog' ? 'bg-indigo-100 text-indigo-400 hover:text-indigo-500 active:bg-indigo-500 border-indigo-500' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500 border-green-500'"
         @click.stop.prevent="resetTransform('screen')"
       >
         {{ Math.round(scale * 100) }}%
@@ -555,7 +555,7 @@ const pointerCancelHandler = (event) => {
           v-show="showScrollBtns"
           :disabled="scrollPos === 'start'"
           class="btn"
-          :class="scrollPos === 'start' ? (flexiMode === 'blog' ? 'bg-purple-100 text-purple-400 hover:text-purple-500 active:bg-purple-500 border-purple-500 opacity-30' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500 border-green-500 opacity-30') : (flexiMode === 'blog' ? 'bg-purple-100 text-purple-400 hover:text-green-500 active:bg-green-500 border-green-500' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500 border-green-500')"
+          :class="scrollPos === 'start' ? (flexiMode === 'blog' ? 'bg-indigo-100 text-indigo-400 hover:text-indigo-500 active:bg-indigo-500 border-indigo-500 opacity-30' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500 border-green-500 opacity-30') : (flexiMode === 'blog' ? 'bg-indigo-100 text-indigo-400 hover:text-green-500 active:bg-green-500 border-green-500' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500 border-green-500')"
           @click.stop.prevent="scrollHandler('left')"
         >
           <IconCustom name="material-symbols:arrow-left-rounded" class="w-6 h-6" />
@@ -569,7 +569,7 @@ const pointerCancelHandler = (event) => {
             v-for="(item, index) in zoomImageList"
             :key="index"
             class="shrink-0 w-16 h-16 sm:w-20 sm:h-20 ring sm:ring-4 focus:outline-none rounded overflow-hidden"
-            :class="currentZoomImg && currentZoomImg.src === item.src ? (flexiMode === 'blog' ? 'ring-purple-400' : 'ring-green-400') : 'ring-transparent'"
+            :class="currentZoomImg && currentZoomImg.src === item.src ? (flexiMode === 'blog' ? 'ring-indigo-400' : 'ring-green-400') : 'ring-transparent'"
             @click.stop.prevent="setCurrentZoomImg(item)"
           >
             <img :src="item.src" :alt="item.alt" class="mx-auto max-h-full">
@@ -579,7 +579,7 @@ const pointerCancelHandler = (event) => {
           v-show="showScrollBtns"
           :disabled="scrollPos === 'end'"
           class="btn"
-          :class="scrollPos === 'end' ? (flexiMode === 'blog' ? 'bg-purple-100 text-purple-400 hover:text-purple-500 active:bg-purple-500 border-purple-500 opacity-30' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500 border-green-500 opacity-30') : (flexiMode === 'blog' ? 'bg-purple-100 text-purple-400 hover:text-green-500 active:bg-green-500 border-green-500' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500 border-green-500')"
+          :class="scrollPos === 'end' ? (flexiMode === 'blog' ? 'bg-indigo-100 text-indigo-400 hover:text-indigo-500 active:bg-indigo-500 border-indigo-500 opacity-30' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500 border-green-500 opacity-30') : (flexiMode === 'blog' ? 'bg-indigo-100 text-indigo-400 hover:text-green-500 active:bg-green-500 border-green-500' : 'bg-green-100 text-green-400 hover:text-green-500 active:bg-green-500 border-green-500')"
           @click.stop.prevent="scrollHandler('right')"
         >
           <IconCustom name="material-symbols:arrow-right-rounded" class="w-6 h-6" />

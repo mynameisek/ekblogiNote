@@ -309,7 +309,7 @@ provide('setActiveHeadingId', setActiveHeadingId)
 
 <template>
   <div>
-    <div class="p-4 selection:text-white selection:bg-purple-400">
+    <div class="p-4 selection:text-white selection:bg-indigo-400">
       <h1 v-if="showTitle" class="py-4 text-3xl md:text-5xl font-bold text-center">
         {{ props.data.title || "Article" }}
       </h1>
@@ -318,7 +318,7 @@ provide('setActiveHeadingId', setActiveHeadingId)
           v-if="category"
           :to="{ path: '/list', query: { category: category } }"
           target="_blank"
-          class="p-2 flex items-center gap-1 text-gray-300 hover:text-white hover:bg-purple-500 focus:outline-purple-500 focus:outline-none rounded transition-colors duration-300"
+          class="p-2 flex items-center gap-1 text-gray-300 hover:text-white hover:bg-indigo-500 focus:outline-indigo-500 focus:outline-none rounded transition-colors duration-300"
         >
           <IconCustom name="material-symbols:category-rounded" class="shrink-0 w-4 h-4" />
           <span class="text-xs">{{ category }}</span>

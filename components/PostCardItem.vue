@@ -18,7 +18,7 @@ const getCoverUrl = (relativeURL) => {
 
 <template>
   <div
-    class="shrink-0 relative z-10 border border-purple-100 rounded-lg overflow-hidden"
+    class="shrink-0 relative z-10 border border-indigo-100 rounded-lg overflow-hidden"
     :class="props.listLen >= 2 ? 'w-5/6' : 'w-full'"
   >
     <div

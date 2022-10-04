@@ -164,13 +164,13 @@ onMounted(() => {
       <div class="shrink-0 flex items-center gap-4">
         <button
           :title="copyState === 'wait' ? 'copy code' : ''"
-          class="flex justify-center items-center text-gray-500 hover:text-purple-500 transition-colors duration-300"
+          class="flex justify-center items-center text-gray-500 hover:text-indigo-500 transition-colors duration-300"
           :class="!clipboard ? 'opacity-10' : ''"
           :disabled="copyState !== 'wait' || !clipboard"
           @click="copyHandler"
         >
           <IconCustom v-show="copyState === 'wait'" name="uil:copy" class="w-4 h-4" />
-          <IconCustom v-show="copyState === 'process'" name="eos-icons:loading" class="w-4 h-4 text-purple-500" />
+          <IconCustom v-show="copyState === 'process'" name="eos-icons:loading" class="w-4 h-4 text-indigo-500" />
           <IconCustom v-show="copyState === 'success'" name="uil:check" class="w-4 h-4 text-green-500" />
           <IconCustom
             v-show="copyState === 'fail'"
@@ -228,7 +228,7 @@ onMounted(() => {
     }
 
     .highlight {
-      @apply bg-gray-700/80 border-purple-500
+      @apply bg-gray-700/80 border-indigo-500
     }
   }
 }

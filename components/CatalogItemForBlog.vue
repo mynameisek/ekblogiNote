@@ -33,9 +33,9 @@ const toggleCatalogHandler = () => {
 
 const bgColorMap = {
   2: {
-    expand: 'bg-purple-500',
-    collapse: 'bg-purple-200',
-    collapseWithChildren: 'bg-purple-400'
+    expand: 'bg-indigo-500',
+    collapse: 'bg-indigo-200',
+    collapseWithChildren: 'bg-indigo-400'
   },
   3: {
     expand: 'bg-red-500',
@@ -60,7 +60,7 @@ const bgColorMap = {
 }
 
 const textColorMap = {
-  2: 'text-purple-400',
+  2: 'text-indigo-400',
   3: 'text-red-400',
   4: 'text-green-400',
   5: 'text-blue-400',
@@ -68,7 +68,7 @@ const textColorMap = {
 }
 
 const borderColorMap = {
-  2: { active: 'border-purple-500', expand: 'border-purple-300', collapse: 'border-purple-100' },
+  2: { active: 'border-indigo-500', expand: 'border-indigo-300', collapse: 'border-indigo-100' },
   3: { active: 'border-red-500', expand: 'border-red-300', collapse: 'border-red-100' },
   4: { active: 'border-green-500', expand: 'border-green-300', collapse: 'border-green-100' },
   5: { active: 'border-blue-500', expand: 'border-blue-300', collapse: 'border-blue-100' },

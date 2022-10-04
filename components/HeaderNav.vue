@@ -97,7 +97,7 @@ const changeFlexiMode = () => {
       <div class="flex items-center gap-6">
         <button
           class="btn hidden sm:block"
-          :class="flexiMode === 'blog' ? 'text-purple-500 hover:bg-purple-100' : 'text-green-500 hover:bg-green-100'"
+          :class="flexiMode === 'blog' ? 'text-indigo-500 hover:bg-indigo-100' : 'text-green-500 hover:bg-green-100'"
           @mouseover="setSubNav(true)"
           @mouseleave="setSubNav(false)"
           @click="showSubNav=!showSubNav"
@@ -107,7 +107,7 @@ const changeFlexiMode = () => {
         <NuxtLink
           to="/about"
           class="btn"
-          :class="flexiMode === 'blog' ? 'text-purple-500 hover:bg-purple-100' : 'text-green-500 hover:bg-green-100'"
+          :class="flexiMode === 'blog' ? 'text-indigo-500 hover:bg-indigo-100' : 'text-green-500 hover:bg-green-100'"
         >
           About
         </NuxtLink>
@@ -115,7 +115,7 @@ const changeFlexiMode = () => {
           v-if="appConfig.theme.subscribePage"
           to="/subscribe"
           class="btn"
-          :class="flexiMode === 'blog' ? 'text-purple-500 hover:bg-purple-100' : 'text-green-500 hover:bg-green-100'"
+          :class="flexiMode === 'blog' ? 'text-indigo-500 hover:bg-indigo-100' : 'text-green-500 hover:bg-green-100'"
         >
           Subscribe
         </NuxtLink>
@@ -123,16 +123,16 @@ const changeFlexiMode = () => {
           v-if="props.headerFlexiMode"
           :title="`toggle flex mode to ${flexiMode === 'blog' ? 'note' : 'blog'}`"
           class="hidden w-10 h-10 sm:flex justify-center items-center gap-1 transition-colors duration-300 rounded-lg"
-          :class="flexiMode === 'blog' ? 'flex-col bg-purple-100 hover:bg-purple-200 ' : 'flex-row bg-green-100 hover:bg-green-200 '"
+          :class="flexiMode === 'blog' ? 'flex-col bg-indigo-100 hover:bg-indigo-200 ' : 'flex-row bg-green-100 hover:bg-green-200 '"
           @click="changeFlexiMode"
         >
           <div
             class="shrink-0 w-2 h-2 rounded-full "
-            :class="flexiMode === 'blog' ? 'bg-purple-500' : 'bg-green-500'"
+            :class="flexiMode === 'blog' ? 'bg-indigo-500' : 'bg-green-500'"
           />
           <div class="shrink-0 space-y-1">
-            <div class="w-1.5 h-1.5 rounded-full " :class="flexiMode === 'blog' ? 'bg-purple-400' : 'bg-green-400'" />
-            <div class="w-1.5 h-1.5 rounded-full " :class="flexiMode === 'blog' ? 'bg-purple-400' : 'bg-green-400'" />
+            <div class="w-1.5 h-1.5 rounded-full " :class="flexiMode === 'blog' ? 'bg-indigo-400' : 'bg-green-400'" />
+            <div class="w-1.5 h-1.5 rounded-full " :class="flexiMode === 'blog' ? 'bg-indigo-400' : 'bg-green-400'" />
           </div>
         </button>
       </div>
@@ -156,7 +156,7 @@ const changeFlexiMode = () => {
           <NuxtLink
             to="/list"
             class="sub-nav-item-card"
-            :class="flexiMode === 'blog' ? 'text-purple-500 bg-purple-50 hover:bg-purple-100 border-purple-100' : 'text-green-500 bg-green-50 hover:bg-green-100 border-green-100 '"
+            :class="flexiMode === 'blog' ? 'text-indigo-500 bg-indigo-50 hover:bg-indigo-100 border-indigo-100' : 'text-green-500 bg-green-50 hover:bg-green-100 border-green-100 '"
             @click="showSubNav=false"
           >
             <IconCustom name="material-symbols:category-rounded" class="w-8 h-8" />
@@ -169,7 +169,7 @@ const changeFlexiMode = () => {
             :key="category._path"
             :to="{ path: '/list', query: { category: getCategory(category._path) } }"
             class="sub-nav-item-card"
-            :class="flexiMode === 'blog' ? 'text-purple-500 bg-purple-50 hover:bg-purple-100 border-purple-100' : 'text-green-500 bg-green-50 hover:bg-green-100 border-green-100 '"
+            :class="flexiMode === 'blog' ? 'text-indigo-500 bg-indigo-50 hover:bg-indigo-100 border-indigo-100' : 'text-green-500 bg-green-50 hover:bg-green-100 border-green-100 '"
             @click="showSubNav=false"
           >
             <IconCustom name="material-symbols:category-rounded" class="w-8 h-8" />

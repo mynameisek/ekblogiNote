@@ -288,7 +288,7 @@ const getFileTypeIcon = (type) => {
         <div class="flex items-start sm:space-x-2">
           <button
             class="shrink-0 p-2.5 hidden sm:flex justify-center items-center transition-colors duration-300 rounded"
-            :class="showMoreFilter ? 'bg-purple-500 hover:bg-purple-400 text-white' : 'bg-purple-100 text-purple-400 hover:text-purple-500'"
+            :class="showMoreFilter ? 'bg-indigo-500 hover:bg-indigo-400 text-white' : 'bg-indigo-100 text-indigo-400 hover:text-indigo-500'"
             @click="showMoreFilter = !showMoreFilter"
           >
             <IconCustom name="mdi:filter-plus-outline" class="w-6 h-6" />
@@ -315,7 +315,7 @@ const getFileTypeIcon = (type) => {
                 <li class="shrink-0">
                   <button
                     class="px-2 py-1 flex items-center space-x-1 transition-colors duration-300 rounded"
-                    :class="currentCategory === 'all' ? 'text-white bg-purple-500 hover:bg-purple-400' : 'text-purple-400 hover:text-purple-500 bg-purple-100'"
+                    :class="currentCategory === 'all' ? 'text-white bg-indigo-500 hover:bg-indigo-400' : 'text-indigo-400 hover:text-indigo-500 bg-indigo-100'"
                     @click="toggleCategory('all')"
                   >
                     <IconCustom name="material-symbols:category-rounded" class="w-5 h-5" />
@@ -325,7 +325,7 @@ const getFileTypeIcon = (type) => {
                 <li v-for="item in categoryArr" :key="item._path" class="shrink-0">
                   <button
                     class="px-2 py-1 flex items-center space-x-1 transition-colors duration-300 rounded"
-                    :class="currentCategory === getCategory(item._path) ? 'text-white bg-purple-500 hover:bg-purple-400' : 'text-purple-400 hover:text-purple-500 bg-purple-100'"
+                    :class="currentCategory === getCategory(item._path) ? 'text-white bg-indigo-500 hover:bg-indigo-400' : 'text-indigo-400 hover:text-indigo-500 bg-indigo-100'"
                     @click="toggleCategory(getCategory(item._path))"
                   >
                     <IconCustom name="material-symbols:category-rounded" class="shrink-0 w-5 h-5" />
@@ -367,7 +367,7 @@ const getFileTypeIcon = (type) => {
                     <li v-for="tag in ['all', ...tagSet as string[]]" :key="tag" class="shrink-0">
                       <button
                         class="px-2 py-1 flex items-center space-x-1 transition-colors duration-300 rounded disabled:opacity-30"
-                        :class="(currentTags.length === 0 && tag === 'all') || currentTags.includes(tag) ? 'text-white bg-purple-500 hover:bg-purple-400' : 'text-purple-400 hover:text-purple-500 bg-purple-100'"
+                        :class="(currentTags.length === 0 && tag === 'all') || currentTags.includes(tag) ? 'text-white bg-indigo-500 hover:bg-indigo-400' : 'text-indigo-400 hover:text-indigo-500 bg-indigo-100'"
                         :disabled="(tag === 'all' || currentCategory === 'all' || categoryTags[currentCategory]?.includes(tag)) ? false : true"
                         @click="toggleTag(tag)"
                       >
@@ -397,7 +397,7 @@ const getFileTypeIcon = (type) => {
                     <li v-for="series in ['all', ...seriesSet as string[]]" :key="series" class="shrink-0">
                       <button
                         class="px-2 py-1 flex items-center space-x-1 transition-colors duration-300 rounded disabled:opacity-30"
-                        :class="currentSeries === series ? 'text-white bg-purple-500 hover:bg-purple-400' : 'text-purple-400 hover:text-purple-500 bg-purple-100'"
+                        :class="currentSeries === series ? 'text-white bg-indigo-500 hover:bg-indigo-400' : 'text-indigo-400 hover:text-indigo-500 bg-indigo-100'"
                         :disabled="(series === 'all' || currentCategory === 'all' || categorySeries[currentCategory]?.includes(series)) ? false : true"
                         @click="toggleSeries(series)"
                       >
@@ -418,7 +418,7 @@ const getFileTypeIcon = (type) => {
                 <IconCustom name="ant-design:clear-outlined" class="w-4 h-4" />
               </button>
               <button
-                class="grow py-1 sm:hidden text-purple-500 bg-purple-100 rounded"
+                class="grow py-1 sm:hidden text-indigo-500 bg-indigo-100 rounded"
                 @click="showMoreFilter = !showMoreFilter"
               >
                 <IconCustom v-show="!showMoreFilter" name="ic:round-keyboard-arrow-down" class="w-4 h-4" />

@@ -31,9 +31,9 @@ const defaultTypeMap = {
   announce: {
     icon: 'bi:megaphone',
     name: 'Announce',
-    bgColorClass: 'bg-purple-100',
-    textColorClass: 'text-purple-500',
-    borderColorClass: 'border-purple-400'
+    bgColorClass: 'bg-indigo-100',
+    textColorClass: 'text-indigo-500',
+    borderColorClass: 'border-indigo-400'
   },
   warning: {
     icon: 'bi:exclamation-triangle-fill',

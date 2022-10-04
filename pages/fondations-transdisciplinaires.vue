@@ -31,7 +31,7 @@
 <style lang="scss">
 .about-me-content-container {
   h1 {
-    @apply py-8 text-3xl sm:text-5xl text-purple-500 font-bold text-center
+    @apply py-8 text-3xl sm:text-5xl text-indigo-500 font-bold text-center
   }
 
   h2 {

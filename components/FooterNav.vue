@@ -114,7 +114,7 @@ const toggleCatalogHandler = () => {
           >
           <p
             class="text-xs"
-            :class="showMoreOptions ? (flexiMode === 'blog' ? 'text-purple-500' : 'text-green-500') : 'text-gray-500'"
+            :class="showMoreOptions ? (flexiMode === 'blog' ? 'text-indigo-500' : 'text-green-500') : 'text-gray-500'"
           >
             More
           </p>
@@ -133,7 +133,7 @@ const toggleCatalogHandler = () => {
           <NuxtLink
             to="/"
             class="option-item"
-            :class="flexiMode === 'blog' ? 'text-purple-500 bg-purple-50 hover:bg-purple-100 border-purple-500' : 'text-green-500 bg-green-50 hover:bg-green-100 border-green-500'"
+            :class="flexiMode === 'blog' ? 'text-indigo-500 bg-indigo-50 hover:bg-indigo-100 border-indigo-500' : 'text-green-500 bg-green-50 hover:bg-green-100 border-green-500'"
             @click="showMoreOptions = false"
           >
             Home
@@ -141,7 +141,7 @@ const toggleCatalogHandler = () => {
           <NuxtLink
             to="/about"
             class="option-item"
-            :class="flexiMode === 'blog' ? 'text-purple-500 bg-purple-50 hover:bg-purple-100 border-purple-500' : 'text-green-500 bg-green-50 hover:bg-green-100 border-green-500'"
+            :class="flexiMode === 'blog' ? 'text-indigo-500 bg-indigo-50 hover:bg-indigo-100 border-indigo-500' : 'text-green-500 bg-green-50 hover:bg-green-100 border-green-500'"
             @click="showMoreOptions = false"
           >
             About
@@ -150,7 +150,7 @@ const toggleCatalogHandler = () => {
             v-if="appConfig.theme.subscribePage"
             to="/subscribe"
             class="option-item"
-            :class="flexiMode === 'blog' ? 'text-purple-500 bg-purple-50 hover:bg-purple-100 border-purple-500' : 'text-green-500 bg-green-50 hover:bg-green-100 border-green-500'"
+            :class="flexiMode === 'blog' ? 'text-indigo-500 bg-indigo-50 hover:bg-indigo-100 border-indigo-500' : 'text-green-500 bg-green-50 hover:bg-green-100 border-green-500'"
             @click="showMoreOptions = false"
           >
             Subscribe
@@ -185,7 +185,7 @@ const toggleCatalogHandler = () => {
           <NuxtLink
             to="/list"
             class="option-item"
-            :class="flexiMode === 'blog' ? 'text-purple-500 bg-purple-50 hover:bg-purple-100 border-purple-500' : 'text-green-500 bg-green-50 hover:bg-green-100 border-green-500'"
+            :class="flexiMode === 'blog' ? 'text-indigo-500 bg-indigo-50 hover:bg-indigo-100 border-indigo-500' : 'text-green-500 bg-green-50 hover:bg-green-100 border-green-500'"
             @click="showCategoryOptions = false"
           >
             all
@@ -195,7 +195,7 @@ const toggleCatalogHandler = () => {
             :key="category._path"
             :to="{ path: '/list', query: { category: getCategory(category._path) } }"
             class="option-item"
-            :class="flexiMode === 'blog' ? 'text-purple-500 bg-purple-50 hover:bg-purple-100 border-purple-500' : 'text-green-500 bg-green-50 hover:bg-green-100 border-green-500'"
+            :class="flexiMode === 'blog' ? 'text-indigo-500 bg-indigo-50 hover:bg-indigo-100 border-indigo-500' : 'text-green-500 bg-green-50 hover:bg-green-100 border-green-500'"
             @click="showCategoryOptions = false"
           >
             {{ category.title }}
@@ -207,7 +207,7 @@ const toggleCatalogHandler = () => {
         v-if="props.footerCatalog"
         v-show="!showMoreOptions && !showCategoryOptions"
         class="grow px-2 py-3 flex justify-center items-center space-y-1 bg-gray-50"
-        :class="showBlogCatalog ? (flexiMode === 'blog' ? 'text-purple-500': 'text-green-500'): 'text-gray-500'"
+        :class="showBlogCatalog ? (flexiMode === 'blog' ? 'text-indigo-500': 'text-green-500'): 'text-gray-500'"
         @click="toggleCatalogHandler"
       >
         <div class="flex flex-col justify-center items-center gap-1">
@@ -225,11 +225,11 @@ const toggleCatalogHandler = () => {
         class="grow flex justify-center items-center"
         @click="changeFlexiMode"
       >
-        <div class="mx-2 w-11 h-11 flex flex-col justify-center items-center gap-1 transition-colors duration-300 rounded-lg" :class="flexiMode === 'blog' ? 'flex-col bg-purple-100' : 'bg-green-100'">
-          <div class="shrink-0 w-2 h-2 rounded-full" :class="flexiMode === 'blog' ? 'bg-purple-500' : 'bg-green-500'" />
+        <div class="mx-2 w-11 h-11 flex flex-col justify-center items-center gap-1 transition-colors duration-300 rounded-lg" :class="flexiMode === 'blog' ? 'flex-col bg-indigo-100' : 'bg-green-100'">
+          <div class="shrink-0 w-2 h-2 rounded-full" :class="flexiMode === 'blog' ? 'bg-indigo-500' : 'bg-green-500'" />
           <div class="shrink-0 space-y-1">
-            <div class="w-1.5 h-1.5 rounded-full" :class="flexiMode === 'blog' ? 'bg-purple-400' : 'bg-green-400'" />
-            <div class="w-1.5 h-1.5 rounded-full" :class="flexiMode === 'blog' ? 'bg-purple-400' : 'bg-green-400'" />
+            <div class="w-1.5 h-1.5 rounded-full" :class="flexiMode === 'blog' ? 'bg-indigo-400' : 'bg-green-400'" />
+            <div class="w-1.5 h-1.5 rounded-full" :class="flexiMode === 'blog' ? 'bg-indigo-400' : 'bg-green-400'" />
           </div>
         </div>
       </button>
@@ -252,6 +252,6 @@ const toggleCatalogHandler = () => {
 }
 
 .sub-nav-item-card {
-  @apply p-4 flex flex-col justify-center items-center space-y-2 text-purple-500 bg-purple-50 hover:bg-purple-100 border border-purple-400 rounded
+  @apply p-4 flex flex-col justify-center items-center space-y-2 text-indigo-500 bg-indigo-50 hover:bg-indigo-100 border border-indigo-400 rounded
 }
 </style>

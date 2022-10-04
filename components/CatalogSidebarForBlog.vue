@@ -381,7 +381,7 @@ provide('changeToggleAllCatalogState', changeToggleAllCatalogState)
       <button
         draggable="false"
         class="shrink-0 group pt-1 pl-1 flex justify-start items-start cursor-nwse-resize touch-none rounded-tl-lg"
-        :class="resizeDirection === 'up' || resizeDirection === 'up-left' || resizeDirection === 'up-right' || resizeDirection === 'bottom-left' || resizeDirection === 'left' ? 'bg-purple-200' : ''"
+        :class="resizeDirection === 'up' || resizeDirection === 'up-left' || resizeDirection === 'up-right' || resizeDirection === 'bottom-left' || resizeDirection === 'left' ? 'bg-indigo-200' : ''"
         @pointerdown="resizeSidebarPointerDownHandler('up-left', $event)"
         @pointermove="resizeSidebarPointerMoveHandler"
         @pointercancel="resizeSidebarPointerCancelHandler"
@@ -389,17 +389,17 @@ provide('changeToggleAllCatalogState', changeToggleAllCatalogState)
       >
         <div
           class="resize-btn-indicator w-1 h-2 rounded-b"
-          :class="resizeDirection === 'up-left' ? 'bg-purple-400' : 'bg-gray-400'"
+          :class="resizeDirection === 'up-left' ? 'bg-indigo-400' : 'bg-gray-400'"
         />
         <div
           class="resize-btn-indicator w-1 h-1 rounded-r"
-          :class="resizeDirection === 'up-left' ?'bg-purple-400' : 'bg-gray-400'"
+          :class="resizeDirection === 'up-left' ?'bg-indigo-400' : 'bg-gray-400'"
         />
       </button>
       <button
         draggable="false"
         class="grow group py-1 flex justify-center items-start cursor-ns-resize touch-none"
-        :class="resizeDirection === 'up' || resizeDirection === 'up-left' || resizeDirection === 'up-right' ? 'bg-purple-200' : ''"
+        :class="resizeDirection === 'up' || resizeDirection === 'up-left' || resizeDirection === 'up-right' ? 'bg-indigo-200' : ''"
         @pointerdown="resizeSidebarPointerDownHandler('up', $event)"
         @pointermove="resizeSidebarPointerMoveHandler"
         @pointercancel="resizeSidebarPointerCancelHandler"
@@ -407,13 +407,13 @@ provide('changeToggleAllCatalogState', changeToggleAllCatalogState)
       >
         <div
           class="resize-btn-indicator w-10 h-1 rounded"
-          :class="resizeDirection === 'up' ? 'bg-purple-400' : 'bg-gray-400'"
+          :class="resizeDirection === 'up' ? 'bg-indigo-400' : 'bg-gray-400'"
         />
       </button>
       <button
         draggable="false"
         class="shrink-0 group pt-1 pr-1 flex justify-end items-start cursor-nesw-resize touch-none rounded-tr-lg"
-        :class="resizeDirection === 'up' || resizeDirection === 'up-left' || resizeDirection === 'up-right' || resizeDirection === 'bottom-right' || resizeDirection === 'right' ? 'bg-purple-200' : ''"
+        :class="resizeDirection === 'up' || resizeDirection === 'up-left' || resizeDirection === 'up-right' || resizeDirection === 'bottom-right' || resizeDirection === 'right' ? 'bg-indigo-200' : ''"
         @pointerdown="resizeSidebarPointerDownHandler('up-right', $event)"
         @pointermove="resizeSidebarPointerMoveHandler"
         @pointercancel="resizeSidebarPointerCancelHandler"
@@ -421,11 +421,11 @@ provide('changeToggleAllCatalogState', changeToggleAllCatalogState)
       >
         <div
           class="resize-btn-indicator w-1 h-1 rounded-l"
-          :class="resizeDirection === 'up-right' ? 'bg-purple-400': 'bg-gray-400'"
+          :class="resizeDirection === 'up-right' ? 'bg-indigo-400': 'bg-gray-400'"
         />
         <div
           class="resize-btn-indicator w-1 h-2 rounded-b"
-          :class="resizeDirection === 'up-right' ? 'bg-purple-400' : 'bg-gray-400'"
+          :class="resizeDirection === 'up-right' ? 'bg-indigo-400' : 'bg-gray-400'"
         />
       </button>
     </div>
@@ -435,7 +435,7 @@ provide('changeToggleAllCatalogState', changeToggleAllCatalogState)
         v-show="sidebarFloatForBlog"
         draggable="false"
         class="shrink-0 group cursor-ew-resize px-1 flex justify-start items-center touch-none"
-        :class="resizeDirection === 'up-left' || resizeDirection === 'left' || resizeDirection === 'bottom-left' ? 'bg-purple-200' : ''"
+        :class="resizeDirection === 'up-left' || resizeDirection === 'left' || resizeDirection === 'bottom-left' ? 'bg-indigo-200' : ''"
         @pointerdown="resizeSidebarPointerDownHandler('left', $event)"
         @pointermove="resizeSidebarPointerMoveHandler"
         @pointercancel="resizeSidebarPointerCancelHandler"
@@ -443,7 +443,7 @@ provide('changeToggleAllCatalogState', changeToggleAllCatalogState)
       >
         <div
           class="resize-btn-indicator w-1 h-10 rounded"
-          :class="resizeDirection === 'left' ? 'bg-purple-400': 'bg-gray-400'"
+          :class="resizeDirection === 'left' ? 'bg-indigo-400': 'bg-gray-400'"
         />
       </button>
       <div
@@ -455,7 +455,7 @@ provide('changeToggleAllCatalogState', changeToggleAllCatalogState)
           v-show="sidebarFloatForBlog"
           draggable="false"
           class="shrink-0 order-1 group p-1 w-full flex justify-center items-center rounded transition-colors duration-300 cursor-move touch-none"
-          :class="dragSidebarState ? 'bg-purple-200 text-purple-500' : 'text-gray-600 hover:text-gray-800 hover:bg-gray-200'"
+          :class="dragSidebarState ? 'bg-indigo-200 text-indigo-500' : 'text-gray-600 hover:text-gray-800 hover:bg-gray-200'"
           @pointerdown="dragSidebarPointerDownHandler"
           @pointermove="dragSidebarPointerMoveHandler"
           @pointercancel="dragSidebarPointerCancelHandler"
@@ -493,7 +493,7 @@ provide('changeToggleAllCatalogState', changeToggleAllCatalogState)
 
             <button
               v-show="!sidebarFloatForBlog || floatBlogCatalogType === 'list'"
-              class="sidebar-btn flex active:text-white border bg-purple-100 text-purple-400 hover:text-purple-500 active:bg-purple-500 border-purple-400"
+              class="sidebar-btn flex active:text-white border bg-indigo-100 text-indigo-400 hover:text-indigo-500 active:bg-indigo-500 border-indigo-400"
               @click="scrollCatalogTo = 'top'"
             >
               <IconCustom name="material-symbols:vertical-align-top-rounded" class="w-4 h-4" />
@@ -501,7 +501,7 @@ provide('changeToggleAllCatalogState', changeToggleAllCatalogState)
 
             <button
               v-show="!sidebarFloatForBlog || floatBlogCatalogType === 'list'"
-              class="sidebar-btn flex active:text-white border bg-purple-100 text-purple-400 hover:text-purple-500 active:bg-purple-500 border-purple-400"
+              class="sidebar-btn flex active:text-white border bg-indigo-100 text-indigo-400 hover:text-indigo-500 active:bg-indigo-500 border-indigo-400"
               @click="scrollCatalogTo = 'bottom'"
             >
               <IconCustom name="material-symbols:vertical-align-bottom-rounded" class="w-4 h-4" />
@@ -510,7 +510,7 @@ provide('changeToggleAllCatalogState', changeToggleAllCatalogState)
             <button
               v-show="sidebarFloatForBlog"
               class="sidebar-btn flex border"
-              :class="floatBlogCatalogType === 'tree' ? 'bg-purple-500 hover:bg-purple-400 text-white border-purple-400' : 'bg-purple-100 text-purple-400 hover:text-purple-500 border-purple-400'"
+              :class="floatBlogCatalogType === 'tree' ? 'bg-indigo-500 hover:bg-indigo-400 text-white border-indigo-400' : 'bg-indigo-100 text-indigo-400 hover:text-indigo-500 border-indigo-400'"
               @click="toggleFloatCatalogTypeHandler"
             >
               <IconCustom name="icon-park-outline:tree-diagram" class="w-4 h-4" />
@@ -518,7 +518,7 @@ provide('changeToggleAllCatalogState', changeToggleAllCatalogState)
 
             <button
               v-show="floatBlogCatalogType === 'tree' && sidebarFloatForBlog"
-              class="sidebar-btn flex border active:text-white bg-purple-100 text-purple-400 hover:text-purple-500 active:bg-purple-500 border-purple-400"
+              class="sidebar-btn flex border active:text-white bg-indigo-100 text-indigo-400 hover:text-indigo-500 active:bg-indigo-500 border-indigo-400"
               @click="resetCatalogListScaleHandler"
             >
               <IconCustom name="uil:focus-target" class="w-4 h-4" />
@@ -527,7 +527,7 @@ provide('changeToggleAllCatalogState', changeToggleAllCatalogState)
 
           <button
             class="shrink-0 hidden xl:flex p-1 justify-center items-center rounded border transition-colors duration-300"
-            :class="sidebarFloatForBlog ? 'border-purple-400 bg-purple-500 hover:bg-purple-400 text-white' : 'border-purple-400 bg-purple-100 text-purple-400 hover:text-purple-500'"
+            :class="sidebarFloatForBlog ? 'border-indigo-400 bg-indigo-500 hover:bg-indigo-400 text-white' : 'border-indigo-400 bg-indigo-100 text-indigo-400 hover:text-indigo-500'"
             @click="toggleSidebarFloatForBlog = !toggleSidebarFloatForBlog"
           >
             <IconCustom name="clarity:window-restore-line" class="w-4 h-4" />
@@ -546,7 +546,7 @@ provide('changeToggleAllCatalogState', changeToggleAllCatalogState)
             :min="miniScale"
             :max="maxScale"
             step="0.01"
-            class="grow h-1.5 focus:outline-0 accent-purple-400"
+            class="grow h-1.5 focus:outline-0 accent-indigo-400"
           >
           <span class="shrink-0 w-6 overflow-hidden text-gray-400 text-xs text-center">{{ catalogListScale }}</span>
         </div>
@@ -564,7 +564,7 @@ provide('changeToggleAllCatalogState', changeToggleAllCatalogState)
           <ul
             ref="catalogList"
             class="shrink-0 overscroll-none"
-            :class="sidebarFloatForBlog && floatBlogCatalogType === 'tree' ? 'space-y-2 m-4 border-l border-purple-300 rounded-md touch-none' : ''"
+            :class="sidebarFloatForBlog && floatBlogCatalogType === 'tree' ? 'space-y-2 m-4 border-l border-indigo-300 rounded-md touch-none' : ''"
             :style="sidebarFloatForBlog && floatBlogCatalogType === 'tree' ? `transform: translate(${catalogListTranslateX}px, ${catalogListTranslateY}px) scale(${catalogListScale})` : ''"
             @wheel="scrollToZoomCatalogHandler"
           >
@@ -581,7 +581,7 @@ provide('changeToggleAllCatalogState', changeToggleAllCatalogState)
         v-show="sidebarFloatForBlog"
         draggable="false"
         class="shrink-0 group px-1 flex justify-end items-center cursor-ew-resize touch-none"
-        :class="resizeDirection === 'up-right' || resizeDirection === 'right' || resizeDirection === 'bottom-right' ? 'bg-purple-200' : ''"
+        :class="resizeDirection === 'up-right' || resizeDirection === 'right' || resizeDirection === 'bottom-right' ? 'bg-indigo-200' : ''"
         @pointerdown="resizeSidebarPointerDownHandler('right', $event)"
         @pointermove="resizeSidebarPointerMoveHandler"
         @pointercancel="resizeSidebarPointerCancelHandler"
@@ -589,7 +589,7 @@ provide('changeToggleAllCatalogState', changeToggleAllCatalogState)
       >
         <div
           class="resize-btn-indicator w-1 h-10 rounded"
-          :class="resizeDirection === 'right' ? 'bg-purple-400' : 'bg-gray-400'"
+          :class="resizeDirection === 'right' ? 'bg-indigo-400' : 'bg-gray-400'"
         />
       </button>
     </div>
@@ -598,7 +598,7 @@ provide('changeToggleAllCatalogState', changeToggleAllCatalogState)
       <button
         draggable="false"
         class="shrink-0 group pl-1 pb-1 flex justify-start items-end cursor-nesw-resize touch-none rounded-bl-lg"
-        :class="resizeDirection === 'bottom' || resizeDirection === 'bottom-left' || resizeDirection === 'bottom-right' || resizeDirection === 'up-left' || resizeDirection === 'left' ? 'bg-purple-200' : ''"
+        :class="resizeDirection === 'bottom' || resizeDirection === 'bottom-left' || resizeDirection === 'bottom-right' || resizeDirection === 'up-left' || resizeDirection === 'left' ? 'bg-indigo-200' : ''"
         @pointerdown="resizeSidebarPointerDownHandler('bottom-left', $event)"
         @pointermove="resizeSidebarPointerMoveHandler"
         @pointercancel="resizeSidebarPointerCancelHandler"
@@ -606,17 +606,17 @@ provide('changeToggleAllCatalogState', changeToggleAllCatalogState)
       >
         <div
           class="resize-btn-indicator w-1 h-2 rounded-t"
-          :class="resizeDirection === 'bottom-left' ? 'bg-purple-400' : 'bg-gray-400'"
+          :class="resizeDirection === 'bottom-left' ? 'bg-indigo-400' : 'bg-gray-400'"
         />
         <div
           class="resize-btn-indicator w-1 h-1 rounded-r"
-          :class="resizeDirection === 'bottom-left' ? 'bg-purple-400' : 'bg-gray-400'"
+          :class="resizeDirection === 'bottom-left' ? 'bg-indigo-400' : 'bg-gray-400'"
         />
       </button>
       <button
         draggable="false"
         class="grow group py-1 flex justify-center items-end cursor-ns-resize touch-none"
-        :class="resizeDirection === 'bottom' || resizeDirection === 'bottom-left' || resizeDirection === 'bottom-right' ? 'bg-purple-200' : ''"
+        :class="resizeDirection === 'bottom' || resizeDirection === 'bottom-left' || resizeDirection === 'bottom-right' ? 'bg-indigo-200' : ''"
         @pointerdown="resizeSidebarPointerDownHandler('bottom', $event)"
         @pointermove="resizeSidebarPointerMoveHandler"
         @pointercancel="resizeSidebarPointerCancelHandler"
@@ -624,13 +624,13 @@ provide('changeToggleAllCatalogState', changeToggleAllCatalogState)
       >
         <div
           class="resize-btn-indicator w-10 h-1 rounded"
-          :class="resizeDirection === 'bottom' ? 'bg-purple-400' : 'bg-gray-400'"
+          :class="resizeDirection === 'bottom' ? 'bg-indigo-400' : 'bg-gray-400'"
         />
       </button>
       <button
         draggable="false"
         class="shrink-0 group pr-1 pb-1 flex justify-end items-end cursor-nwse-resize touch-none rounded-br-lg"
-        :class="resizeDirection === 'bottom' || resizeDirection === 'bottom-left' || resizeDirection === 'bottom-right' || resizeDirection === 'up-right' || resizeDirection === 'right' ? 'bg-purple-200' : ''"
+        :class="resizeDirection === 'bottom' || resizeDirection === 'bottom-left' || resizeDirection === 'bottom-right' || resizeDirection === 'up-right' || resizeDirection === 'right' ? 'bg-indigo-200' : ''"
         @pointerdown="resizeSidebarPointerDownHandler('bottom-right', $event)"
         @pointermove="resizeSidebarPointerMoveHandler"
         @pointercancel="resizeSidebarPointerCancelHandler"
@@ -638,11 +638,11 @@ provide('changeToggleAllCatalogState', changeToggleAllCatalogState)
       >
         <div
           class="resize-btn-indicator w-1 h-1 rounded-l"
-          :class="resizeDirection === 'bottom-right' ? 'bg-purple-400' : 'bg-gray-400'"
+          :class="resizeDirection === 'bottom-right' ? 'bg-indigo-400' : 'bg-gray-400'"
         />
         <div
           class="resize-btn-indicator w-1 h-2 rounded-t"
-          :class="resizeDirection === 'bottom-right' ? 'bg-purple-400' : 'bg-gray-400'"
+          :class="resizeDirection === 'bottom-right' ? 'bg-indigo-400' : 'bg-gray-400'"
         />
       </button>
     </div>
@@ -650,7 +650,7 @@ provide('changeToggleAllCatalogState', changeToggleAllCatalogState)
   <!-- eslint-disable-next-line vue/no-multiple-template-root -->
   <button
     v-show="showCatalogForBlog && sidebarFloatForBlog"
-    class="p-3 sm:p-2 flex justify-center items-center fixed bottom-[8.5rem] sm:bottom-28 right-2 sm:right-4 z-40 active:text-white rounded-lg text-purple-400 hover:text-purple-500 bg-purple-100 active:bg-purple-500 border border-purple-200"
+    class="p-3 sm:p-2 flex justify-center items-center fixed bottom-[8.5rem] sm:bottom-28 right-2 sm:right-4 z-40 active:text-white rounded-lg text-indigo-400 hover:text-indigo-500 bg-indigo-100 active:bg-indigo-500 border border-indigo-200"
     @click="resetFloatSidebarHandler"
   >
     <IconCustom name="bi:layout-sidebar-inset" class="w-5 h-5" />

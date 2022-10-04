@@ -92,7 +92,7 @@ const addListener = (list, prefix, suffix) => {
     element.addEventListener('dblclick', (event) => {
       const target = event.currentTarget as HTMLElement
 
-      // after click set the math element border color to 'border-purple-400'
+      // after click set the math element border color to 'border-indigo-400'
       target.style.borderColor = '#c084fc'
 
       // get the LaTeX source code of math formula
@@ -195,13 +195,13 @@ watch(showZoomImage, () => {
       v-if="!pending && data && data.articleType === 'note'"
       :title="`toggle flex mode to ${flexiMode === 'blog' ? 'note' : 'blog'}`"
       class="w-9 h-9 hidden sm:flex justify-center items-center gap-1 fixed bottom-4 left-4 z-20 border transition-colors duration-300 rounded-lg"
-      :class="flexiMode === 'blog' ? 'flex-col bg-purple-100 hover:bg-purple-50 border-purple-200' : 'flex-row bg-green-100 hover:bg-green-50 border-green-200'"
+      :class="flexiMode === 'blog' ? 'flex-col bg-indigo-100 hover:bg-indigo-50 border-indigo-200' : 'flex-row bg-green-100 hover:bg-green-50 border-green-200'"
       @click="changeFlexiMode"
     >
-      <div class="shrink-0 w-1.5 h-1.5 rounded-full" :class="flexiMode === 'blog' ? 'bg-purple-500' : 'bg-green-500'" />
+      <div class="shrink-0 w-1.5 h-1.5 rounded-full" :class="flexiMode === 'blog' ? 'bg-indigo-500' : 'bg-green-500'" />
       <div class="shrink-0 space-y-1">
-        <div class="w-1 h-1 rounded-full " :class="flexiMode === 'blog' ? 'bg-purple-400' : 'bg-green-400'" />
-        <div class="w-1 h-1 rounded-full " :class="flexiMode === 'blog' ? 'bg-purple-400' : 'bg-green-400'" />
+        <div class="w-1 h-1 rounded-full " :class="flexiMode === 'blog' ? 'bg-indigo-400' : 'bg-green-400'" />
+        <div class="w-1 h-1 rounded-full " :class="flexiMode === 'blog' ? 'bg-indigo-400' : 'bg-green-400'" />
       </div>
     </button>
 
@@ -342,7 +342,7 @@ watch(showZoomImage, () => {
   }
 
   .critic-comment {
-    @apply bg-purple-200;
+    @apply bg-indigo-200;
   }
 }
 </style>

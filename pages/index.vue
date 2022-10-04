@@ -160,7 +160,7 @@ const getFileTypeIcon = (type) => {
               <IntroCard :avatar="'/default-avatar.png'" />
             </template>
             <template #not-found>
-              <h1 class="py-4 text-3xl sm:text-5xl font-bold text-center text-purple-500">
+              <h1 class="py-4 text-3xl sm:text-5xl font-bold text-center text-indigo-500">
                 EkNote
               </h1>
             </template>
@@ -170,19 +170,19 @@ const getFileTypeIcon = (type) => {
           <!-- <h2 class="flex justify-center items-center font-bold text-xl sm:text-3xl text-gray-600">
             <button
               class="px-4 py-2 rounded-md transition-colors duration-300"
-              :class="showRecentPosts ? 'text-purple-500 hover:bg-purple-100' : 'text-white bg-purple-500 hover:bg-purple-400'"
+              :class="showRecentPosts ? 'text-indigo-500 hover:bg-indigo-100' : 'text-white bg-indigo-500 hover:bg-indigo-400'"
               @click="showRecentPosts = !showRecentPosts"
             >
               Blog Post
             </button>
           </h2>
-          <hr class="w-1/5 my-6 mx-auto bg-purple-200"> -->
+          <hr class="w-1/5 my-6 mx-auto bg-indigo-200"> -->
 
           <div class="space-y-8">
             <section class="w-full sm:w-4/5 mx-auto space-y-4">
               <!-- <NuxtLink
                 to="/list"
-                class="w-fit mx-auto px-2 py-1 block text-xs text-white bg-purple-500 hover:bg-purple-400 rounded"
+                class="w-fit mx-auto px-2 py-1 block text-xs text-white bg-indigo-500 hover:bg-indigo-400 rounded"
               >
                 show all
               </NuxtLink> -->
@@ -217,10 +217,10 @@ const getFileTypeIcon = (type) => {
             <template v-for="category in articleFolder.children">
               <section v-if="'children' in category" :key="category._path" class="w-full sm:w-4/5 mx-auto space-y-4">
                 <div class="flex justify-between items-start">
-                  <h2 class="border-l-8 border-purple-500 rounded-l-sm">
+                  <h2 class="border-l-8 border-indigo-500 rounded-l-sm">
                     <button
-                      class="p-1 font-bold text-lg text-purple-500 hover:bg-purple-100 border rounded-r-sm transition-colors duration-300 "
-                      :class="hidePostCategorySections.has(category._path) ? 'border-purple-500' : 'border-transparent'"
+                      class="p-1 font-bold text-lg text-indigo-500 hover:bg-indigo-100 border rounded-r-sm transition-colors duration-300 "
+                      :class="hidePostCategorySections.has(category._path) ? 'border-indigo-500' : 'border-transparent'"
                       @click="togglePostCategorySectionsHandler(category._path)"
                     >
                       {{ category.title }}
@@ -228,7 +228,7 @@ const getFileTypeIcon = (type) => {
                   </h2>
                   <NuxtLink
                     :to="{ path: '/list', query: { category: getCategory(category._path) } }"
-                    class="p-2 text-xs font-bold transition-colors duration-300 rounded-lg text-purple-500 bg-purple-100 hover:bg-purple-50"
+                    class="p-2 text-xs font-bold transition-colors duration-300 rounded-lg text-indigo-500 bg-indigo-100 hover:bg-indigo-50"
                   >
                     More
                   </NuxtLink>
@@ -319,13 +319,13 @@ const getFileTypeIcon = (type) => {
     <!-- <button
       :title="`toggle flex mode to ${flexiMode === 'blog' ? 'note' : 'blog'}`"
       class="w-9 h-9 hidden sm:flex justify-center items-center gap-1 fixed bottom-16 right-4 z-20 border transition-colors duration-300 rounded-lg"
-      :class="flexiMode === 'blog' ? 'flex-col bg-purple-100 hover:bg-purple-50 border-purple-200' : 'flex-row bg-green-100 hover:bg-green-50 border-green-200'"
+      :class="flexiMode === 'blog' ? 'flex-col bg-indigo-100 hover:bg-indigo-50 border-indigo-200' : 'flex-row bg-green-100 hover:bg-green-50 border-green-200'"
       @click="changeFlexiMode"
     >
-      <div class="shrink-0 w-1.5 h-1.5 rounded-full" :class="flexiMode === 'blog' ? 'bg-purple-500' : 'bg-green-500'" />
+      <div class="shrink-0 w-1.5 h-1.5 rounded-full" :class="flexiMode === 'blog' ? 'bg-indigo-500' : 'bg-green-500'" />
       <div class="shrink-0 space-y-1">
-        <div class="w-1 h-1 rounded-full " :class="flexiMode === 'blog' ? 'bg-purple-400' : 'bg-green-400'" />
-        <div class="w-1 h-1 rounded-full " :class="flexiMode === 'blog' ? 'bg-purple-400' : 'bg-green-400'" />
+        <div class="w-1 h-1 rounded-full " :class="flexiMode === 'blog' ? 'bg-indigo-400' : 'bg-green-400'" />
+        <div class="w-1 h-1 rounded-full " :class="flexiMode === 'blog' ? 'bg-indigo-400' : 'bg-green-400'" />
       </div>
     </button> -->
   </div>

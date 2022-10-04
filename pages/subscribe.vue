@@ -31,7 +31,7 @@ const config = useRuntimeConfig()
                 <CopyContent
                   :content="`${config.public.hostname}/sitemap.xml`"
                   :icon-name="'majesticons:sitemap'"
-                  :icon-color-class="'text-purple-400'"
+                  :icon-color-class="'text-indigo-400'"
                   :icon-size-class="'w-6 h-6'"
                 />
                 <NuxtLink to="/sitemap.xml" target="_blank" class="text-blue-500 hover:text-blue-600 transition-colors duration-300">
@@ -49,7 +49,7 @@ const config = useRuntimeConfig()
 <style lang="scss">
 .subscribe-content-container {
   h1 {
-    @apply py-8 text-3xl sm:text-5xl text-purple-500 font-bold text-center
+    @apply py-8 text-3xl sm:text-5xl text-indigo-500 font-bold text-center
   }
 
   h2 {

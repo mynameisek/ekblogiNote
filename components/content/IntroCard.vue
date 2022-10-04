@@ -6,7 +6,7 @@ const props = defineProps({
   },
   colorClass: {
     type: String,
-    default: 'text-purple-600 bg-purple-100'
+    default: 'text-indigo-600 bg-indigo-100'
   },
   colorStyle: {
     type: String,

@@ -30,7 +30,7 @@ const headingElem = ref(null)
 const headingArr = ['h1', 'h2', 'h3', 'h4', 'h5', 'h6']
 const headingColorMap = {
   h1: 'text-gray-800',
-  h2: 'text-purple-500',
+  h2: 'text-indigo-500',
   h3: 'text-red-500',
   h4: 'text-green-500',
   h5: 'text-blue-500',
@@ -43,8 +43,8 @@ const headingBtnMap = {
     collapse: 'text-gray-400 hover:text-gray-500 active:text-white active:bg-gray-500 border-gray-500'
   },
   h2: {
-    expand: 'text-white bg-purple-500 hover:bg-purple-400 active:bg-purple-500 border-purple-500',
-    collapse: 'text-purple-400 hover:text-purple-500 active:text-white active:bg-purple-500 border-purple-500'
+    expand: 'text-white bg-indigo-500 hover:bg-indigo-400 active:bg-indigo-500 border-indigo-500',
+    collapse: 'text-indigo-400 hover:text-indigo-500 active:text-white active:bg-indigo-500 border-indigo-500'
   },
   h3: {
     expand: 'text-white bg-red-500 hover:bg-red-400 active:bg-red-500 border-red-500',
@@ -66,7 +66,7 @@ const headingBtnMap = {
 
 const borderColorMap = {
   h1: 'border-gray-100',
-  h2: 'border-purple-100',
+  h2: 'border-indigo-100',
   h3: 'border-red-100',
   h4: 'border-green-100',
   h5: 'border-blue-100',
@@ -101,7 +101,7 @@ const setActiveHeadingId = inject<(string) => void>('setActiveHeadingId')
 
 const highlightColorMap = {
   h1: 'bg-gray-100',
-  h2: 'bg-purple-100',
+  h2: 'bg-indigo-100',
   h3: 'bg-red-100',
   h4: 'bg-green-100',
   h5: 'bg-blue-100',
