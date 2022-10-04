@@ -201,7 +201,7 @@ const getFileTypeIcon = (type) => {
                       :key="article._path"
                       :article="article"
                       class="hidden sm:block"
-                    />FOO
+                    />
                     <PostCardItem
                       v-for="article in data"
                       :key="article._path"
