@@ -1,8 +1,8 @@
-[![BlogiNote](https://raw.githubusercontent.com/mynameisek/ekblogiNote/main/public/cover.jpg)](https://github.com/mynameiskeo/ekblogiNote)
+[![ekBlogiNote](https://raw.githubusercontent.com/mynameisek/ekblogiNote/main/public/cover.jpg)](https://github.com/mynameiskeo/ekblogiNote)
 
 # EkNote
 
-EkNote is a [Nuxt Content](https://content.nuxtjs.org) Theme, it can generate static website to show your blog posts and notes with flexible layouts and multiple optimizations. It is inspired by BlogiNote
+EkNote is a [Nuxt Content](https://content.nuxtjs.org) Theme, it can generate static website to show your blog posts and notes with flexible layouts and multiple optimizations. It is inspired by BlogiNote. Used to build my personal site.
 
 :link: [Demo](http://bloginote.vercel.app/)
 

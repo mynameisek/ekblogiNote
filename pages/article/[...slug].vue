@@ -93,7 +93,7 @@ const addListener = (list, prefix, suffix) => {
       const target = event.currentTarget as HTMLElement
 
       // after click set the math element border color to 'border-indigo-400'
-      target.style.borderColor = '#c084fc'
+      target.style.borderColor = '#4352d9'
 
       // get the LaTeX source code of math formula
       // refer to https://github.com/KaTeX/KaTeX/issues/645

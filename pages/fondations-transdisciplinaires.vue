@@ -19,7 +19,7 @@
                 href="https://github.com/Benbinbin/BlogiNote"
                 target="_blank"
                 class="text-blue-500 hover:text-blue-600 underline font-bold transition-colors duration-300"
-              >BlogiNote</a>.
+              >ekBlogiNote</a>.
             </p>
           </div>
         </template>
