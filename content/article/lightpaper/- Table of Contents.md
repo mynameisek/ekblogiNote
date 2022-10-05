@@ -12,6 +12,9 @@ tags:
 
 # TURFU Lightpaper
 ## Table of Contents v.0.1
+
+**Engage with the World *Paradigm Shift***
+**A complete knowledge base, ecosystem and platforms to engage with the real world**
 ---
 - [[1- Introduction]]
 - [[2- Context Legitimacy]]
