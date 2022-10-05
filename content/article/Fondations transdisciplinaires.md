@@ -3,8 +3,10 @@ series: Manifesto
 created: 2022-07-01
 updated: 2022-07-02
 tags:
-  - Manifesto
+  - manifesto
   - CIRET
+  - TURFU
+  - transdisciplinarité
 ---
 
 # CIRET 

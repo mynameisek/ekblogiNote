@@ -35,9 +35,9 @@ const getCoverUrl = (relativeURL) => {
       <h3 class="font-bold text-2xl text-gray-600 group-hover:text-blue-400 transition-colors duration-500">
         {{ props.article.title || "This Post Hasn't Title Yet" }}
       </h3>
-      <p v-if="props.article.created" class="text-xs">
-        created: {{ $moment(props.article.created).format('LLL') }}
-      </p>
+     <!-- <p v-if="props.article.updated" class="text-xs">
+        Last update: {{ $moment(props.article.updated).format('LL') }}
+      </p>-->
       <p v-if="props.article.description" class="text-gray-600">
         {{ props.article.description }}
       </p>

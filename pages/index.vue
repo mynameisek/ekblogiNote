@@ -44,7 +44,7 @@ showBlogPosts = appConfig.theme.homePage.showBlogPosts
 
 const queryPostsWhere = { _type: 'markdown' }
 const queryPostsLimit = appConfig.theme.homePage.postItemLimit || 5
-const queryPostsOnly = ['title', 'description', '_type', '_path', 'cover', 'series', 'seriesOrder', 'tags', 'created']
+const queryPostsOnly = ['title', 'description', '_type', '_path', 'cover', 'series', 'seriesOrder', 'tags', 'created', 'updated']
 
 if (showBlogPosts && Array.isArray(navTree.value)) {
   articleFolder = navTree.value.find((item) => {

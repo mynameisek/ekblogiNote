@@ -1,6 +1,5 @@
 ---
 series: Lightpaper
-articleType: note
 showTime: false
 showOutdatedWarning: false
 created: 2022-07-01

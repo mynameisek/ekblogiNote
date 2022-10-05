@@ -7,16 +7,17 @@ created: 2022-07-01
 updated: 2022-07-02
 tags:
   - Manifesto
+  - TURFU
 ---
 La période qui est la nôtre désoriente. Les désaccords sont profonds, les factions obstinées, la réalité commune s'effrite. La technologie change qui nous sommes et la société dans laquelle nous vivons à un rythme effréné. Notre identité se cherche dans ce monde en mutation etc.
 
-\- La technique est au cœur de notre processus évolutionnaire../ L’homme et la technique, une relation dialectique
+## La technique est au cœur de notre processus évolutionnaire../ L’homme et la technique, une relation dialectique
 
-\- Au cœur de ce processus évolutionnaire, l’évolution du langage, suivie des dizaines de milliers d'années plus tard par le développement de l'écriture, ont été des révolutions de l'information transformatrices qui ont façonné nos ordres sociaux de manière profonde et imprévisible.
+## Au cœur de ce processus évolutionnaire, l’évolution du langage, suivie des dizaines de milliers d'années plus tard par le développement de l'écriture, ont été des révolutions de l'information transformatrices qui ont façonné nos ordres sociaux de manière profonde et imprévisible.
 
-\- Problématique / thermodynamique des sociétés humaines = Pourquoi nos sociétés n’ont elles-pas atteint un point d’équilibre ?
+## Problématique / thermodynamique des sociétés humaines = Pourquoi nos sociétés n’ont elles-pas atteint un point d’équilibre ?
 
-\- Constats / Solutions
+## Constats / Solutions
 
 # Avant propos
     
@@ -64,10 +65,11 @@ La critique radicale permet de passer de la pratique aliénée inconsciente à l
 
 Ce manifeste se prévaut donc de l’incarnation même de cette philosophie de la praxis, autocritique permanente mais matérialisée par la mise en pratique de la théorie, la réalisation du concept, d’abord par son existence, sa matérialisation sous forme d’écrit, puis son potentiel de déclinaison et par ceux qui s’y reconnaîtront et y verrons un imaginaire commun réaliste et optimiste.
   
-  
+ ::TipBox{type="tip"} 
 _"When they take care of their technical organs by inventing new ways of living, new know-hows and new theoretical knowledge, the technical form of life that we call the humans, produce a new kind of psycho-social negentropy. through social organizations, and cultural or noetic diversity. With such practices, psychic individuals become able to orientate the existing facts by projecting collective ends. Under some economic and technological conditions, they have the capacity to introduce a ‘neganthropic’ bifurcation in the entropic law of the universe, which could defer and differ the ‘Anthropocene’ through the constitution of a new epoch, the ‘Neguantropocene’"_
-
+::
   
+---
 
 Postulant règles du jeu possible communes favorisant l’autodétermination du plus grand nombre et l’équilibre nécessaire à la vie humaine et son développement, nous proposons ce que nous estimons être une solution envisageable comme socle méta-structurel favorisant cet autodéterminisme autour de l’information, et la connaissance. Malgré son accessibilité et la façon dont nous articulons et exposons notre synthèse, ce manifeste a la prétention de répondre à divers enjeux de poids dans les débats intellectuels et philosophiques, politiques et scientifiques actuels.
 

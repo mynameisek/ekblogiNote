@@ -1,5 +1,5 @@
 # Introduction
-BlogiNote is Nuxt Content Theme, it can generate static web pages by parsing `.md`, `.csv` and `.json` files.
+ekBlogiNote is Nuxt Content Theme, it can generate static web pages by parsing `.md`, `.csv` and `.json` files.
 
 You can use this theme to build your :scroll: long blog posts or show your :memo: snippet notes, because BlogiNote provide flexible layouts and multiple optimizations for different type of content.
 
@@ -22,5 +22,5 @@ Magic :sparkles: right? How about building your own project with BlogiNote?
 Now you can check out the :point_right: [Quick Start](./tutorial/quick-start) tutorial to setup your project.
 
 ::TipBox{type="announce" name="Contact Me"}
-If you have any idea or feedback, feel free to contact me with :mailbox: [benthomsonbin@gmail.com](mailto:benthomsonbin@gmail.com){.text-blue-500 .hover:text-blue-600 .transition-colors .duration-300}
+If you have any idea or feedback, feel free to contact me with :mailbox: [mynameiskeo@gmail.com](mailto:mynameiskeo@gmail.com){.text-blue-500 .hover:text-blue-600 .transition-colors .duration-300}
 ::
