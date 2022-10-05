@@ -47,7 +47,7 @@ export const useFileTypeMap = () => useState('fileTypeMap', () => {
       iconName: 'bi:file-earmark-text'
     },
     markdown: {
-      iconName: 'bi:markdown-fill'
+      iconName: 'bi:file-earmark-text-fill'
     },
     json: {
       iconName: 'bi:filetype-json'
