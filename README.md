@@ -1,9 +1,10 @@
-[![ekBlogiNote](https://raw.githubusercontent.com/mynameisek/ekblogiNote/main/public/cover.jpg)](https://github.com/mynameiskeo/ekblogiNote)
+[![ekBlogiNote](https://raw.githubusercontent.com/mynameisek/ekblogiNote/main/public/cover.jpg)](https://github.com/mynameisek/ekblogiNote)
 
 # EkNote
 
-EkNote is a [Nuxt Content](https://content.nuxtjs.org) Theme, it can generate static website to show your blog posts and notes with flexible layouts and multiple optimizations. It is inspired by BlogiNote. Used to build my personal site.
+EkNote is a [Nuxt Content](https://content.nuxtjs.org) Theme, it can generate static website to show your blog posts and notes with flexible layouts and multiple optimizations. It is inspired by BlogiNote. Used to build my personal site and archive.
 
+Check BlogiNote
 :link: [Demo](http://bloginote.vercel.app/)
 
 :gift: [Play Online](https://stackblitz.com/edit/github-qrmhoj)
@@ -26,9 +27,4 @@ you can also build your own template based on BlogiNote, adding some Remark plug
 
 ## Feedback
 
-If you have any problem or suggestion about this project, feel free to open an [issue](https://github.com/Benbinbin/Bookshelf/issues/new) in Github or contact with me by email <a href="mailto:benthomsonbin@gmail.com">benthomsonbin@gmail.com</a>
-
-## Donate
-[![ko-fi](https://raw.githubusercontent.com/Benbinbin/BlogiNote/main/public/donate-banner/kofi.svg)](https://ko-fi.com/benbinbin)
-
-[![afdian](https://raw.githubusercontent.com/Benbinbin/BlogiNote/main/public/donate-banner/afdian.svg)](https://afdian.net/a/benbinbin)
+If you have any problem or suggestion about this project, feel free to open an [issue](https://github.com/mynameisek/ekblogiNote/issues/new) in Github or contact with me by email <a href="mailto:mynameiskeo@gmail.com">mynameiskeo@gmail.com</a>
