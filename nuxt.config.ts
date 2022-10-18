@@ -50,6 +50,8 @@ cleanContentFiles('public/article')
 copyContentFiles('content', 'public', ['.md', '.json', '.csv'])
 
 // https://v3.nuxtjs.org/docs/directory-structure/nuxt.config
+
+
 export default defineNuxtConfig({
   app: {},
   typescript: {
